@@ -1,0 +1,37 @@
+Total de templates únicos: 33
+
+Template                                   Usos  Páginas
+------------------------------------------------------------
+Cp                                          487      211
+LinhaCap                                    195       12
+Personagem                                  141      141
+Capítulo                                    101      100
+Quote box                                    69       52
+Referências                                  29       29
+Cidade                                       18       18
+Reino                                        15       15
+Grupo                                        14       14
+Main Article                                 12        8
+Diário                                       12       12
+Table-Antagonistas                            8        8
+Colorbox                                      6        1
+Top Bar                                       6        1
+Icon Tiamat Symbol                            4        3
+Icon Bahamut Symbol                           4        4
+Hr                                            3        1
+Esboço                                        2        2
+esboço                                        2        2
+Desambiguação                                 2        2
+Estabelecimento                               2        2
+Magia                                         1        1
+Imagem                                        1        1
+Batalha                                       1        1
+Item                                          1        1
+Arrow Right                                   1        1
+Mundo                                         1        1
+Table-Intro                                   1        1
+LinhaLast                                     1        1
+Personagens Principais                        1        1
+Personagens Secundários                       1        1
+Table-Campanha                                1        1
+hr                                            1        1

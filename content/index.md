@@ -1,8 +1,19 @@
 ---
-title: Welcome to Quartz
+title: Dragon Experience Wiki
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Dragon Experience Wiki
 
-Test article: [[Teste]]
+Bem-vindo à wiki da Dragon Experience. Aqui você encontra informações sobre campanhas, capítulos, personagens, locais e muito mais.
+
+## Campanhas
+
+- [[Campanha 1]] — A jornada começa no Bosque do Retorno
+- [[Campanha 2]] — Os Backstreet Boys exploram o continente
+- [[Campanha 3]] — Uma nova aventura com o STF
+
+## Navegação Rápida
+
+- [[Todos os Capítulos]]
+- [[Personagens]]
+- [[Locais]]

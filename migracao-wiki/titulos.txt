@@ -1,0 +1,367 @@
+"A Cidade de Tudo" (1x16)
+"A Cidade dos Anões" (2x27)
+"A Nova Jornada" (2x18)
+"A Subida" (2x34)
+"A Vida Cobra" (1x26)
+"Abrir/Fechar Porta" (3x7)
+"Adventure Skeletons: Fogo e Ossos" (Sx4)
+"Além das Minas Subterrâneas" (2x29)
+"Amigos e Inimigos Rastejantes" (3x4)
+"Apenas um Show" (1x6)
+"Aposta Arriscada" (1x28)
+"Arena do Triunfo" (2x10)
+"Ataque Surpresa" (1x1)
+"Até que a Morte os Separe" (2x12)
+"Avanço Furtivo" (3x2)
+"Batalha dos 4 Exércitos" (2x44)
+"Briga de Taverna" (2x39)
+"Calma Antes da Tempestade" (1x29)
+"Catedral da Chama" (2x33)
+"Caça às Feras Mágicas" (2x6)
+"Chamado da Noite" (1x27)
+"Cheiro de Porco Assado" (2x1)
+"Ciências Aplicadas" (3x5)
+"Confronto na Sala do Trono" (2x35)
+"Convergência" (2x41)
+"Coridravàl, o Magnífico" (2x43)
+"Corpos Famintos" (2x2)
+"Correr & Atirar" (2x5)
+"Cripta de Eluin" (2x9)
+"Curiosidade Luminosa" (2x4)
+"Cyberpunk 2078" (Sx5)
+"Deixando o Passado" (2x15)
+"Desafio Sob Fogo" (1x20)
+"Destino: Ferromir" (2x26)
+"Destino: Lorelheim" (1x15)
+"Destino: Ragnar" (2x22)
+"Destino: Valhaduhr" (2x38)
+"Destino: Valindor" (2x16)
+"Dia Zero" (Sx3)
+"Diálogo Entre Inimigos" (3x10)
+"Do Outro Lado da Guerra" (2x20)
+"Dois Anos Depois: Parte 1" (2x47)
+"Dois Anos Depois: Parte 2" (2x48)
+"Em Rota de Fuga" (2x13)
+"Em Águas Vorazes" (1x30)
+"Encontro Diabólico" (2x7)
+"Encontro Natural" (3x3)
+"Encontro Totêmico" (2x40)
+"Encruzilhada" (1x10)
+"Entre Amigos" (1x3)
+"Entre a Vida e as Flores: Uma História em 7 Atos" (1x7)
+"Experiência de Ouro" (1x21)
+"Faces Ocultas" (3x8)
+"Falsas Identidades" (2x28)
+"Frossfjell" (2x42)
+"Grandes Problemas" (1x11)
+"Honey Heist: Assalto ao Empire State" (Sx1)
+"Instinto Selvagem" (1x14)
+"Juramento da Vingança" (2x36)
+"Lamento do Dragão" (1x22)
+"Laços Fúnebres" (3x9)
+"Mente Submersa" (2x3)
+"Morte" (1x12)
+"Na Forja da Alma" (2x32)
+"Nas Mãos do Destino" (1x13)
+"Noite de Sorte" (3x1)
+"Nova Luta" (2x51)
+"Novas Raízes" (1x23)
+"Novo Reinado" (2x37)
+"Núvem de Veneno" (3x6)
+"O Covil Abandonado" (2x49)
+"O Despertar" (1x33)
+"O Que os Olhos Não Veem" (1x31)
+"Olhar Profundo" (2x50)
+"Olhares na Escuridão" (1x5)
+"Os Glaives" (2x52)
+"Os Túneis" (2x23)
+"Personalidades à Tona" (1x4)
+"Perspectivas" (2x16)
+"Perspectivas" (2x17)
+"Plano de Revolta" (2x31)
+"Presságios da Noite" (1x19)
+"Proteção Natural" (1x24)
+"Sem Saída" (1x25)
+"Sob Alerta" (2x8)
+"Sob a Máscara" (2x19)
+"Sob as Montanhas Congeladas" (1x32)
+"Sob o Templo de Bahamut" (2x45)
+"Sobre a Máscara" (2x24)
+"Sombras do Passado" (2x11)
+"Star Wars: O Peso da Esperança" (Sx2)
+"Subterfúgio" (1x18)
+"Tempos Sombrios" (1x8)
+"Terra Arruinada" (2x21)
+"Tesouro Sagrado" (2x46)
+"Teste de Ouro" (1x17)
+"Troca de Favores" (1x2)
+"Underdark" (2x30)
+"Vida de Crime" (2x14)
+"Vínculo em Carne e Osso" (1x9)
+"À Beira do Abismo" (2x25)
+A Mão
+Abelha Rainha
+Academia Prisinger
+Alara
+Alexander
+Alexander d'Morales
+Alpha X
+Altoriel
+Ancient Emu
+Apéria (Capital)
+Arcanis
+Arkaih Lindon
+Armada de Ferro
+Asmodeus
+Auria
+Aurus Zael
+Avandra
+Backstreet Boys
+Bahamut
+Bail Alderaan
+Belmont
+Bezimir Kalkrion
+Billy the Kid
+Bob Ravenfoot
+Bonélius III
+Borion
+Bosque do Retorno
+Brecha Laboral
+Buck, the White
+Caledonensis Clas
+Calendário do Império
+Calfor
+Callahad
+Callahad Nataniel
+Calrus Ventoalto
+Campanha Estilhaços da Guerra
+Campanha Night Sun
+Caolho Sortudo
+Capitã Auria
+Caraman
+Caravana de Edmund
+Carpeado
+Cavalaria Negra
+Caverna do Clérigo
+Celeste Fornocobre
+Christorien
+Colorio
+Conselho de Ferromir
+Coridravàl
+Corinne
+Dalimar
+Dalys
+Dalys Fjorden
+Daniel
+Delver
+Deremir
+Distrito Arcano de Lorelheim
+Divindades
+Divindades da Guerra da Alvorada
+Diário de Campanha
+Domoria
+Dory
+Drayiv Medrash
+Dândelo Mozu
+Edmund
+Edmund Rundovar
+Eluin
+Eryn
+Eryn Montreal
+Especiais
+Estalagem Asa de Fada
+Fazian Khan
+Ferromir (Capital)
+Fontenova (Capital)
+Forgio
+Fork
+Fuhan
+Garelin
+Genie
+Giovanna Giorel
+Goru San
+Goru San, a Magia Nunca Acaba
+Grazir
+Grupo Marcial
+Guerra Renascentista
+Gul
+Gul'Burz
+Gáven
+Gûl
+Gûl'Burz
+Gûl'Matûrz
+Hakai
+Horenir
+Ielenia
+Ielenia Liadon
+Iggy
+Império de Link
+Indy
+Io
+Irina
+Irus
+Jalis Maron
+Jared Leto
+Jeremy
+John Kaczkawniebo
+Johnny the Boy
+Jon Hawker
+Judite
+Jussara Furadeira
+Kacz Virafolha
+Kamini
+Kamorath (Capital)
+Karamtar
+Katherine Strom
+Keanu Reeves Trans
+Keia
+Kenai
+Kiimerik (Capital)
+Kiran Firinori
+Koda
+Korimarek
+Kradon (Capital)
+Kristina Melion
+Kriv Medrash
+Lady Bruma
+Lari Belacqua
+Leafheart (Capital)
+Lenoir (Capital)
+Leonel
+Liandara
+Linha do Tempo
+Link (Capital)
+Livros de Lorelheim
+Lohar
+Lord Fafnir
+Lorel
+Lorelheim
+Lorelheim (Capital)
+Lya
+Lydford (Capital)
+Lyra Rundovar
+Lâmina de Ouro
+Lâmina de Ouro (Taverna)
+Maness
+Marduk
+Marlin Kebac
+Mei Li
+Mei Li Shimura
+Melora
+Mercado Circular
+Miquê
+Morok
+Mão
+Nero
+Nero Vend'ruckhem
+Nissa Alluren
+O Casco Dourado
+Olho de Peixe
+Ordem do Consenso
+Oremund III
+Orloff
+Orym
+Os Fantasmas
+Os Glaives
+Oscar
+Parte 1
+Parte 10
+Parte 10: Cerco Sob Pedra
+Parte 11
+Parte 1: Adentrando a Escuridão
+Parte 2
+Parte 2: Peças de Ouro
+Parte 3
+Parte 3: Coração Congelado
+Parte 4
+Parte 4: Segredos e Festividades
+Parte 5
+Parte 5: A Sombra que vem de Dentro
+Parte 6
+Parte 6: Juramento de Vingança
+Parte 7
+Parte 7: Inverno Eterno
+Parte 8
+Parte 8: Dois Anos Depois
+Parte 9
+Passo da Montanha
+Pelor
+Personagens Estilhaços da Guerra
+Personagens Night Sun
+Personagens Principais
+Pilif McLouvren
+Preempção
+Prisinger
+Pyotr Lvov Orloff
+Ragnar (Capital)
+Rakdor
+Raven Queen
+Ray Wolf
+Reino Congelado
+Reino de Apéria
+Reino de Draek
+Reino de Ferromir
+Reino de Fontenova
+Reino de Kamorath
+Reino de Kiimerik
+Reino de Kradon
+Reino de Leafheart
+Reino de Lenoir
+Reino de Link
+Reino de Lorelheim
+Reino de Lydford
+Reino de Ragnar
+Reino de Veldland
+Rio Pálido
+Robério
+Roran
+STF
+Sark'mo
+Scratch
+Sehanine
+Seirigrand
+Shift
+Shiv Medrash
+Sinbad
+Sindeval
+Skystone
+Snag'Ghâsh
+Soldados da Noite
+Stephen
+Stephen Sianodel
+Sumarto
+Svarog
+T'Challa
+Taltac
+Tartur
+Tezzeroth
+Thanas
+Thir
+Théoden Castamyr
+Tiamat
+Toisan
+Tonfir
+Tronco Caído
+Tyssaryel
+Uruk'Zagh
+V'doriak
+Vale da Lua
+Valina Lettsa
+Vanth Rorrdanor
+Vassar
+Vaxianthor
+Veldland (Capital)
+Velka
+Vila do Dente Quebrado
+Vingadores
+Vlokk
+Vorak Begran
+Vram Casco
+Wiki Dragon Experience
+Yone
+Yuna
+Yunan
+Z-3PO
+Zarran
+Zepo
+Ódel
