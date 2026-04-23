@@ -1,0 +1,55 @@
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption1"/>
+  </image>
+  <data source="tipo">
+    <label>Tipo</label>
+  </data>
+  <group>
+    <header>Informações</header>
+    <data source="nome">
+      <label>Nome</label>
+    </data>
+    <data source="também_conhecido_como">
+      <label>Também Conhecido Como</label>
+    </data>
+    <data source="líder">
+      <label>Líder</label>
+    </data>
+    <data source="lugares">
+      <label>Lugares</label>
+    </data>
+    <data source="atuação">
+      <label>Atuação</label>
+    </data>
+    <data source="conexões">
+      <label>Conexões</label>
+    </data>
+    <data source="visto_pela_primeira_vez">
+      <label>Visto Pela Primeira Vez</label>
+    </data>
+    <data source="situação">
+      <label>Situação</label>
+    </data>
+  </group>
+</infobox>
+<noinclude>
+Exemplo de uso:<pre>
+{{Grupo
+|title1=Exemplo
+|image1=Exemplo
+|caption1=Exemplo
+|tipo=Exemplo
+|nome=Exemplo
+|líder=Exemplo
+|lugares=Exemplo
+|atuação=Exemplo
+|conexões=Exemplo
+|visto_pela_primeira_vez=Exemplo
+|situação=Exemplo
+}}
+</pre>
+</noinclude>

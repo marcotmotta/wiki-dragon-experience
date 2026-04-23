@@ -1,0 +1,6 @@
+{{ambox
+|image=[[Image:Wiki.png|65px]]
+|type=Esse artigo é um [[:Category:Esboços|esboço]]. Por favor ajude a wiki ''Dragon Experience'' [{{fullurl:{{FULLPAGENAME}}|action=edit}} expandindo-o], [[Special:Upload|adicionando imagens]] ou melhorando texto já existente.
+|info={{{1|}}}
+|border=yellow
+|style=}}

@@ -1,0 +1,7 @@
+<div style="border: 3px solid #b38600; border-radius: 5px; padding: 5px; background-color: #fff9e6;">
+{{Top Bar|title = Aliados}}
+<gallery widths="125" navigation="true" position="center" orientation="none">
+File:Marduk.jpg|'''[[Marduk]], Humano Guerreiro'''<br/>|link=Marduk
+File:Thanas_portrait.jpg|'''[[Thanas]], Anã Ladina'''<br/>|link=Thanas
+</gallery>
+</div>

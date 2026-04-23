@@ -1,0 +1,43 @@
+<!--<div style="border: 3px solid #b38600; border-radius: 5px; padding: 5px; background-color: #fff9e6;">
+{{Top Bar|title = Personagens Principais}}
+<div style="width: 100%; margin: 0 auto; height: 10px; background: blue; display: flex;">
+<div"></div>
+</div>
+</div>-->
+<div style="border: 3px solid #b38600; border-radius: 5px; padding: 5px; background-color: #fff9e6;">
+{{Top Bar|title = Personagens Principais}}
+<div style="text-align:center; padding: 16px 0 0 0; font-size:105%; color:#262626; font-weight: bold;">Campanha 3</div>
+<div style="text-align:center; padding: 0 0 8px 0; font-size:105%; color:#262626; font-weight: bold;">[[STF]]</div>
+<gallery widths="90" navigation="true" position="center" orientation="none" captionsize="small" spacing="small" captionposition="below" captionalign="center">
+File:Alexander_portrait.png|'''[[Alexander d'Morales]]'''<br/>|link=Alexander d'Morales
+File:Calrus_portrait.png|'''[[Calrus Ventoalto]]'''<br/>|link=Calrus Ventoalto
+File:Celeste_portrait.png|'''[[Celeste Fornocobre]]'''<br/>|link=Celeste Fornocobre
+File:Corinne_portrait_2.png|'''[[Corinne]]'''<br/>|link=Corinne
+File:Giovanna_portrait.png|'''[[Giovanna Giorel]]'''<br/>|link=Giovanna Giorel
+File:Kacz_portrait.png|'''[[Kacz Virafolha]]'''<br/>|link=Kacz Virafolha
+File:Orloff_portrait.png|'''[[Pyotr Lvov Orloff]]'''<br/>|link=Pyotr Lvov Orloff
+</gallery>
+{{Hr}}
+<div style="text-align:center; padding: 6px 0 0 0; font-size:105%; color:#262626; font-weight: bold;">Campanha 2</div>
+<div style="text-align:center; padding: 0 0 8px 0; font-size:105%; color:#262626; font-weight: bold;">[[Backstreet Boys]]</div>
+<gallery widths="90" navigation="true" position="center" orientation="none" captionsize="small" spacing="small" captionposition="below" captionalign="center">
+File:Aurus-timeskip-portrait.png|'''[[Aurus Zael]]'''<br/>|link=Aurus Zael
+File:Callahad-timeskip-portrait.png|'''[[Callahad Nataniel]]'''<br/>|link=Callahad
+File:Marlin_portrait.png|'''[[Marlin Kebac]]'''<br/>|link=Marlin Kebac
+File:Mei_li_portrait.png|'''[[Mei Li]]'''<br/>|link=Mei Li
+File:theoden_portrait.png|'''[[Théoden Castamyr]]'''<br/>|link=Théoden Castamyr
+File:Yuna_portrait.png|'''[[Yuna]]'''<br/>|link=Yuna
+</gallery>
+{{Hr}}
+<div style="text-align:center; padding: 6px 0 0 0; font-size:105%; color:#262626; font-weight: bold;">Campanha 1</div>
+<div style="text-align:center; padding: 0 0 8px 0; font-size:105%; color:#262626; font-weight: bold;">[[A Mão]]</div>
+<gallery widths="80" navigation="true" position="center" orientation="none" captionsize="small" spacing="small" captionposition="below" captionalign="center">
+File:Daniel_portrait.jpg|'''[[Daniel]]'''<br/>|link=Daniel
+File:Eryn_portrait.jpg|'''[[Eryn Montreal]]'''<br/>|link=Eryn Montreal
+File:Gul_portrait.jpg|'''[[Gul'Burz]]'''<br/>|link=Gul'Burz
+File:Hakai_portrait.jpg|'''[[Hakai]]'''<br/>|link=Hakai
+File:Ielenia_portrait.jpg|'''[[Ielenia Liadon]]'''<br/>|link=Ielenia Liadon
+File:Roran_portrait.jpg|'''[[Roran]]'''<br/>|link=Roran
+File:Stephen_portrait.jpg|'''[[Stephen Sianodel]]'''<br/>|link=Stephen Sianodel
+</gallery>
+</div>

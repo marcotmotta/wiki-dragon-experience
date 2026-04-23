@@ -29,15 +29,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#faf8f8",       // fundo principal
+          lightgray: "#e5e5e5",   // bordas sutis                                                                                                                                                                                                                               
+          gray: "#b8b8b8",        // texto secundário                                                                                                                                                                                                                           
+          darkgray: "#4e4e4e",    // texto semi-destaque                                                                                                                                                                                                                        
+          dark: "#2b2b2b",        // texto principal                                                                                                                                                                                                                            
+          secondary: "#284b63",   // links e acentos — o que dá o tom da wiki                                                                                                                                                                                                   
+          tertiary: "#84a59d",    // hover                                                                                                                                                                                                                                      
+          highlight: "rgba(143, 159, 169, 0.15)",  // fundo de código/callout                                                                                                                                                                                                   
+          textHighlight: "#fff23688",              // marca-texto
         },
         darkMode: {
           light: "#161618",
@@ -70,6 +70,8 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.RichWikilinks(),
+      Plugin.BrokenLinks(),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],

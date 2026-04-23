@@ -1,0 +1,59 @@
+<includeonly>
+<infobox>
+  <title source="title1"/>
+  <image source="image1">
+    <caption source="caption-image1"/>
+  </image>
+  <data source="nome">
+    <label>Nome</label>
+  </data>
+  <data source="tipo">
+    <label>Tipo</label>
+  </data>
+  <data source="ocupantes">
+    <label>Ocupantes</label>
+  </data>
+  <group>
+    <header source="localização">Localização</header>
+    <data source="região">
+      <label>Região</label>
+    </data>
+    <data source="cidade">
+      <label>Cidade</label>
+    </data>
+    <data source="distrito">
+      <label>Distrito</label>
+    </data>
+  </group>
+</infobox>
+</includeonly>
+<noinclude>
+Exemplo de uso:
+{{Estabelecimento
+  | title1=Exemplo
+  | image1=Example.jpg
+  | caption-image1=Exemplo
+  | nome=Exemplo
+  | tipo=Exemplo
+  | ocupantes=Exemplo
+  | localização=Exemplo
+  | região=Exemplo
+  | cidade=Exemplo
+  | distrito=Exemplo}}
+<pre>
+{{Estabelecimento
+  | title1=Exemplo
+  | image1=Example.jpg
+  | caption-image1=Exemplo
+  | nome=Exemplo
+  | tipo=Exemplo
+  | ocupantes=Exemplo
+  | localização=Exemplo
+  | região=Exemplo
+  | cidade=Exemplo
+  | distrito=Exemplo}}
+</pre>
+<templatedata>
+{"params":{"title1":{"suggested":true},"image1":{"suggested":true},"caption-image1":{"suggested":true},"nome":{"suggested":true},"tipo":{"suggested":true},"ocupantes":{"suggested":true},"localiza\u00e7\u00e3o":{"suggested":true},"regi\u00e3o":{"suggested":true},"cidade":{"suggested":true},"distrito":{"suggested":true}},"sets":[],"maps":{}}
+</templatedata>
+</noinclude>

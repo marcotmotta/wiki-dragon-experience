@@ -24,6 +24,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.Infobox(),
   ],
   left: [
     Component.PageTitle(),
@@ -41,7 +42,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    Component.GraphCustom({
+      localGraph: { showUnresolved: true },
+      globalGraph: {
+        showUnresolved: true,
+        repelForce: 2.0,    // 0.5 default → dobra a repulsão global
+        linkDistance: 30,   // 30 default → aumenta a órbita dos phantoms
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

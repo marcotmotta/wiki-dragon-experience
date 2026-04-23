@@ -1,0 +1,6 @@
+{{ambox
+|image=[[Image:Wiki.png|65px]]
+|type=Essa é a página que você procura?
+|info={{{1|}}}
+|border=blue
+|style=}}

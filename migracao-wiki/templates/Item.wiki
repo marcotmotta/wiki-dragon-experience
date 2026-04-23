@@ -1,0 +1,41 @@
+<infobox>
+  <title source="title1"/>
+  <image source="image1">
+    <caption source="caption-image1"/>
+  </image>
+  <group>
+    <header source="header1">Section Header</header>
+    <data source="nome">
+      <label>Nome</label>
+    </data>
+    <data source="tipo">
+      <label>Tipo</label>
+    </data>
+    <data source="raridade">
+      <label>Raridade</label>
+    </data>
+  </group>
+</infobox>
+<noinclude>
+Exemplo de uso:
+<pre>
+{{Item
+
+  | title1=Exemplo
+
+  | image1=Exemplo
+
+  | caption-image1=Exemplo
+
+  | nome=Exemplo
+
+  | tipo=Exemplo
+
+  | raridade=Exemplo
+
+}}
+</pre>
+<templatedata>
+{"params":{"title1":{"suggested":true},"image1":{"suggested":true},"caption-image1":{"suggested":true},"nome":{"suggested":true},"tipo":{"suggested":true},"raridade":{"suggested":true}},"sets":[],"maps":{}}
+</templatedata>
+</noinclude>

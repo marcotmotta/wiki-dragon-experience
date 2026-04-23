@@ -1,0 +1,49 @@
+<includeonly>
+<infobox>
+  <title source="title1"/>
+  <image source="image1">
+    <caption source="caption-image1"/>
+  </image>
+  <data source="capítulo">
+    <label>Capítulo</label>
+  </data>
+  <data source="data">
+    <label>Data</label>
+  </data>
+  <group>
+    <header>Informações</header>
+    <data source="pcs">
+      <label>PCs</label>
+    </data>
+    <data source="npcs_marcantes">
+      <label>NPCs Principais</label>
+    </data>
+    <data source="npcs_secundários">
+      <label>NPCs Secundários</label>
+    </data>
+    <data source="lugares">
+      <label>Lugares</label>
+    </data>
+  </group>
+  <group>
+    <header>Guia de Capítulos</header>
+    <data source="capítulo_anterior">
+      <label>Anterior</label>
+    </data>
+    <data source="próximo_capítulo">
+      <label>Próximo</label>
+    </data>
+  </group>
+</infobox>
+</includeonly>
+<noinclude>
+Exemplo de uso:<pre>
+{{Capítulo
+|title1=Exemplo
+|capítulo=Exemplo
+|npcs_marcantes=Exemplo
+|npcs_secundários=Exemplo
+|lugares=Exemplo
+}}
+</pre>
+</noinclude>

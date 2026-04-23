@@ -1,0 +1,113 @@
+<includeonly>
+<infobox>
+  <title source="title1"/>
+  <image source="image1">
+    <caption source="caption-image1"/>
+  </image>
+  <data source="tipo">
+    <label>Tipo</label>
+  </data>
+  <data source="jogador">
+    <label>Jogador</label>
+  </data>
+  <data source="campanha">
+    <label>Campanha</label>
+  </data>
+  <group>
+    <header>Informações</header>
+    <data source="nome">
+      <label>Nome</label>
+    </data>
+    <data source="nascimento">
+      <label>Nascimento</label>
+    </data>
+    <data source="morte">
+      <label>Morte</label>
+    </data>
+    <data source="título">
+      <label>Título</label>
+    </data>
+    <data source="conhecido_como">
+      <label>Também Conhecido Como</label>
+    </data>
+    <data source="criatura">
+      <label>Criatura</label>
+    </data>
+    <data source="raça">
+      <label>Raça</label>
+    </data>
+    <data source="classe">
+      <label>Classe</label>
+    </data>
+    <data source="classificação">
+      <label>Classificação</label>
+    </data>
+    <data source="tendência">
+      <label>Tendência</label>
+    </data>
+    <data source="domínios_sugeridos">
+      <label>Domínios Sugeridos</label>
+    </data>
+    <data source="idiomas">
+      <label>Idiomas</label>
+    </data>
+    <data source="plano">
+      <label>Plano</label>
+    </data>
+    <data source="lugares">
+      <label>Lugares</label>
+    </data>
+    <data source="arma_sagrada">
+      <label>Arma Sagrada</label>
+    </data>
+    <data source="família">
+      <label>Família</label>
+    </data>
+    <data source="conexões">
+      <label>Conexões</label>
+    </data>
+    <data source="inimigos">
+      <label>Inimigos</label>
+    </data>
+    <data source="antítese">
+      <label>Antítese</label>
+    </data>
+    <data source="profissão">
+      <label>Profissão</label>
+    </data>
+    <data source="visto_pela_primeira_vez">
+      <label>Visto Pela Primeira Vez</label>
+    </data>
+  </group>
+  <group>
+    <header>Estatísticas</header>
+    <data source="nível">
+      <label>Nível</label>
+    </data>
+  </group>
+</infobox>
+</includeonly>
+<noinclude>
+Exemplo de uso:<pre>
+{{Personagem
+|title1=Exemplo
+|image1=Exemplo
+|caption1=Exemplo
+|tipo=Exemplo
+|jogador=Exemplo
+|nome=Exemplo
+|nascimento=Exemplo
+|morte=Exemplo
+|conhecido_como=Exemplo
+|criatura=Exemplo
+|raça=Exemplo
+|classe=Exemplo
+|tendência=Exemplo
+|idiomas=Exemplo
+|lugares=Exemplo
+|família=Exemplo
+|conexões=Exemplo
+|nível=Exemplo
+}}
+</pre>
+</noinclude>
