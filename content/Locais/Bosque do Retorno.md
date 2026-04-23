@@ -1,34 +1,12 @@
 ---
 tipo: local
-nome: Bosque do Retorno
-categoria: Floresta
-região: Sul
+title: Bosque do Retorno
 tags:
-  - local
-  - floresta
-  - campanha-1
+  - Lugares
 ---
 
-# Bosque do Retorno
+O [[Bosque do Retorno]] é uma extensa região de caráter natural que fica localizada no [[Reino de Lorelheim]]. O Bosque engloba todas as diretrizes Sudeste, Sul, Sudoeste, Oeste e Noroeste do reino, isto é, todas as regiões que não são a região da capital e as regiões litorâneas. Os domínios do Bosque incluem as divisas com os vizinhos [[Reino de Veldland]], [[Reino de Kamorath]] e [[Reino de Leafheart]].
 
-| | |
-|---|---|
-| **Categoria** | Floresta |
-| **Região** | Sul |
-
-## Descrição
-
-O Bosque do Retorno é uma vasta região florestal onde se iniciou a [[Campanha 1]]. Foi palco do primeiro encontro entre [[Daniel]], [[Eryn Montreal]] e [[Sinbad]], após o ataque à caravana em que viajavam.
-
-## Locais próximos
-
-- [[Vila do Dente Quebrado]]
-
-## Eventos ocorridos aqui
-
-```dataview
-LIST
-FROM "Capítulos"
-WHERE contains(locais, this.file.link)
-SORT numero_global ASC
-```
+## Pontos de Interesse
+* [[Vale da Lua]]
+* [[Vila do Dente Quebrado]]

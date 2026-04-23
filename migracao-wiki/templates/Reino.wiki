@@ -1,0 +1,33 @@
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption1"/>
+  </image>
+  <data source="também_conhecido_como">
+    <label>Também Conhecido Como</label>
+  </data>
+  <data source="continente">
+    <label>Continente</label>
+  </data>
+  <data source="capital">
+    <label>Capital</label>
+  </data>
+  <data source="coalizão">
+    <label>Coalizão</label>
+  </data>
+</infobox>
+<noinclude>
+Exemplo de uso:<pre>
+{{Reino
+|title1=Exemplo
+|image1=Exemplo
+|caption1=Exemplo
+|também_conhecido_como=Exemplo
+|continente=Exemplo
+|capital=Exemplo
+|coalizão=Exemplo
+}}
+</pre>
+</noinclude>

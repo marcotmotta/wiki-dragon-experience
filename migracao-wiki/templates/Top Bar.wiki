@@ -1,0 +1,5 @@
+{| style="border:3px solid #b38600; text-align:center; width:100%; border-top-left-radius: 30px; -moz-border-radius-topleft: 30px; border-bottom-right-radius: 30px; -moz-border-radius-bottomleft: 30px;"
+|-
+|style="background-color: #ffecb3; font-size:115%; border-top-left-radius: 30px; -moz-border-radius-topleft: 30px;border-bottom-right-radius: 30px;-moz-border-radius-bottomleft: 30px; color:#262626; font-weight: bold;"|{{{title}}}
+|-
+|}

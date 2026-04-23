@@ -1,0 +1,37 @@
+{| class="article-table" style="font-size: 100%; width: 100%; margin: auto;"
+<!-- ! colspan="4" style="text-align: center;" |Campanha -->
+|-
+! rowspan="3" style="text-align: center;" |[[:Categoria:NPC|NPCs Notáveis]]
+! colspan="2" style="text-align: center;" | Campanha 1
+| colspan="3" |[[Carpeado]] • [[Dalys Fjorden]] • [[Edmund Rundovar]] • [[Goru San]] • [[Nero Vend'ruckhem]] • [[Rakdor]] • [[Toisan]] • [[Vram Casco]]
+|-
+! colspan="2" style="text-align: center;" | Campanha 2
+| colspan="3" |[[Caraman]] • [[Coridravàl]] • [[Deremir]] • [[Leonel]] • [[Nissa Alluren]] • [[Valina Lettsa]] • [[Zarran]]
+|-
+|-
+! colspan="2" style="text-align: center;" | Campanha 3
+| colspan="3" |[[Fazian Khan]] • [[Gáven]] • [[Grazir]] • [[Sindeval]] • [[Tartur]]
+|-
+! style="text-align: center;" |[[:Categoria:Convidados|Convidados]]
+| colspan="3" |[[Marduk]] • [[Sinbad]] • [[Thanas]] • [[Yone]]
+|-
+! rowspan="5" style="text-align: center;" |[[:Categoria:Lugares|Lugares]]
+| rowspan="5" style="text-align: center;" |[[Lorelheim]]
+|[[Altoriel]]
+|[[Reino Congelado]] • [[Reino de Kamorath|Kamorath]] • [[Reino de Kiimerik|Kiimerik]] • [[Reino de Leafheart|Leafheart]] • [[Reino de Lorelheim|Lorelheim]] • [[Reino de Lydford|Lydford]] • [[Reino de Veldland|Veldland]]
+|-
+|[[Domoria]]
+|[[Reino de Draek|Draek]]
+|-
+|[[Karamtar]]
+|[[Reino de Ferromir|Ferromir]] • [[Reino de Lenoir|Lenoir]] • [[Reino de Ragnar|Ragnar]]
+|-
+|[[Skystone]]
+|[[Reino de Apéria|Apéria]] • [[Reino de Kradon|Kradon]]
+|-
+|[[Vaxianthor]]
+|[[Reino de Fontenova|Fontenova]] • [[Reino de Link|Link]]
+|-
+! style="text-align: center;" |[[:Categoria:Grupos e Organizações|Grupos e Organizações]]
+| colspan="3" |[[A Mão]] • [[Academia Prisinger]] • [[Armada de Ferro]] • [[Backstreet Boys]] • [[Caravana de Edmund]] • [[Cavalaria Negra]] • [[Os Fantasmas]] • [[Os Glaives]] • [[Lâmina de Ouro]] • [[Ordem do Consenso]] • [[Soldados da Noite]] • [[STF]]
+|}

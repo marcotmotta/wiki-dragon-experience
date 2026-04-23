@@ -1,0 +1,13 @@
+<div style="border: 3px solid #b38600; border-radius: 5px; padding: 5px; background-color: #fff9e6;">
+{{Top Bar|title = Bem Vindo à Wiki Dragon Experience!}}
+<div style="text-align: center; padding: 20px 10px 0px 10px;">
+Esta Wiki tem como objetivo documentar tudo relacionado ao universo de RPG Dragon Experience, incluindo campanhas, histórias e acontecimentos.
+</div>
+{{hr}}
+<div style="text-align: center; padding: 15px 10px 0px 10px; font-size: 90%;">
+Atualmente estão sendo mantidos [[Especial:Todas as páginas|{{NUMBEROFARTICLES}} artigos]] e [[Especial:Lista de arquivos|{{NUMBEROFFILES}} arquivos]] na wiki. Crie uma conta e contribua.<br>
+'''Top Contribuidores:''' [[Especial:Leaderboard|Placar de Líderes]]
+</div>
+<!--'''Dragon Experience Links:''' [https://dragonexperience.home.blog/ Blog Dragon Experience] • -->
+</div>
+</div>

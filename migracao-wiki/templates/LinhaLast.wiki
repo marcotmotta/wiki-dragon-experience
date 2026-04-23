@@ -1,0 +1,9 @@
+<includeonly>{{LinhaCap|{{Cp|last}}|teaser={{{teaser|}}}}}</includeonly><noinclude>
+Helper que renderiza a linha do último episódio.
+
+Uso:
+  {{LinhaLast}}            → linha do último episódio
+  {{LinhaLast|teaser=1}}   → linha do último episódio + teaser
+
+Puxa o código do último episódio do Cp (campo |last=) e chama LinhaCap.
+</noinclude>

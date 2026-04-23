@@ -1,0 +1,8 @@
+{| align="center" style="border:solid 2px #888; padding:0.5em;"
+| width="20px" valign="middle" style="color:#b2b7f2; font-size:30pt; font-family:serif; font-weight:bold; text-align:left; padding:0 10px;" | “ 
+| valign="middle" style="font-size:{{{quotesize|20pt}}}; padding:0 10px;" | {{{1|{{{quote|}}}}}}
+| width="20px" valign="middle" style="color:#b2b7f2; font-size:30pt; font-family:serif; font-weight:bold; text-align:left; padding:0 10px;" | ”
+|-
+|  
+| colspan="2" valign="top" | <div style="line-height:1em;text-align: right"><cite style="font-style:normal;">— {{{2|{{{person|}}}}}}</cite></div>
+|}

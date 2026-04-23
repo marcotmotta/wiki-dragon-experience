@@ -1,0 +1,30 @@
+{| class="article-table" style="width: 100%;"
+! colspan="2" style="text-align: center;" |Antagonistas
+|- style="border-top: 2px #b38600 solid"
+|[[Parte 1]]
+|[[Lyra Rundovar]]
+|-
+|[[Parte 2]]
+|[[Soldados da Noite]]
+|-
+|[[Parte 3]]
+|[[V'doriak]]
+|-
+|[[Parte 4]]
+|[[Lady Bruma]] • [[Lord Fafnir]]
+|-
+|[[Parte 5]]
+|[[Forgio]]
+|-
+|[[Parte 6]]
+|[[Delver]]
+|-
+|[[Parte 7]]
+|
+|-
+|[[Parte 8]]
+|
+|-
+|[[Parte 9]]
+|[[Os Fantasmas]]
+|}

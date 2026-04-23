@@ -1,0 +1,13 @@
+<infobox>
+  <image source="image1">
+    <caption source="caption1"/>
+  </image>
+</infobox>
+<noinclude>
+Exemplo de uso:<pre>
+{{Imagem
+|image1=Exemplo
+|caption1=Exemplo
+}}
+</pre>
+</noinclude>

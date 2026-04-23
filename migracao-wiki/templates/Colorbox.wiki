@@ -1,0 +1,1 @@
+<div style="background: {{{1}}}; width: 20px; height: 20px; border: 2px black solid;"></div>

@@ -1,0 +1,35 @@
+<infobox>
+  <title source="title1"/>
+  <image source="image1">
+    <caption source="caption1"/>
+  </image>
+  <group>
+    <header>Informações</header>
+    <data source="capital">
+      <label>Capital</label>
+    </data>
+    <data source="plano">
+      <label>Plano</label>
+    </data>
+    <data source="continentes">
+      <label>Continentes</label>
+    </data>
+    <data source="eras">
+      <label>Eras</label>
+    </data>
+    <data source="ano">
+      <label>Ano</label>
+    </data>
+  </group>
+</infobox>
+<noinclude>
+Exemplo de uso:<pre>
+{{Mundo
+|title1=Exemplo
+|image1=Exemplo
+|caption1=Exemplo
+|capital=Exemplo
+|plano=Exemplo
+}}
+</pre>
+</noinclude>

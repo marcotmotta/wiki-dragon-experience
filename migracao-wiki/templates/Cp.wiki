@@ -1,0 +1,807 @@
+<includeonly>{{#switch:{{{1|}}}
+
+<!-- ===== ESPECIAIS ===== -->
+|Sx1=[["Honey Heist: Assalto ao Empire State" (Sx1)]]
+|Sd1=02/11/2019
+|Sr1=Um grupo de ursos criminosos e mafiosos é recrutado depois de anos para concluir uma missão secreta e extremamente perigosa: roubar o mel do Serviço Secreto dos Estados Unidos.
+|Sn1=1
+|Sc1=—
+|Sk1=—
+
+|Sx2=[["Star Wars: O Peso da Esperança" (Sx2)]]
+|Sd2=04/04/2020
+|Sr2=Um grupo de mercenários espaciais a bordo da espaçonave E.N.Z.O luta bravamente contra as forças do Império Galáctico para levar esperança aos rebeldes e prosseguir com o legado de sua líder.
+|Sn2=2
+|Sc2=—
+|Sk2=—
+
+|Sx3=[["Dia Zero" (Sx3)]]
+|Sd3=20/11/2020
+|Sr3=Em Harmônica um grupo de confiança do Rei é enviado em missão até a cidade de Melive com apenas um objetivo: recuperar o lendário cajado de Solaris.
+|Sn3=3
+|Sc3=—
+|Sk3=—
+
+|Sx4=[["Adventure Skeletons: Fogo e Ossos" (Sx4)]]
+|Sd4=14/04/2021
+|Sr4=Indignados e insatisfeitos um grupo de esqueletos partem em uma grande aventura a fim de encontrar tesouros, resolver mistérios e incendiar terrenos na masmorra humana chamada de Vila do Dente Quebrado.
+|Sn4=4
+|Sc4=—
+|Sk4=—
+
+|Sx5=[["Cyberpunk 2078" (Sx5)]]
+|Sd5=21/04/2021
+|Sr5=Um grupo de criminosos cyberpunk se reúne para acertar as contas com o líder de uma facção inimiga nas ruas de Nova Nova York. Suas habilidades serão suas armas nessa aventura perigosa que envolve alianças, explosões, segredos e uma conexão misteriosa com a CyberNet na luta pela cabeça de Jerry Goldenhand.
+|Sn5=5
+|Sc5=—
+|Sk5=—
+
+<!-- ===== CAMPANHA 1 ===== -->
+|1x1=[["Ataque Surpresa" (1x1)]]
+|1d1=09/03/2019
+|1r1=A caravana em que se encontram Daniel, Eryn e Sinbad é atacada e após semanas os aventureiros devem concluir seu primeiro trabalho: deter os bandidos.
+|1n1=1
+|1c1=1
+|1p1=1
+|1k1=1
+
+|1x2=[["Troca de Favores" (1x2)]]
+|1d2=16/03/2019
+|1r2=Presos no covil dos inconsequentes goblins, Marduk e Roran precisam se aliar para sair da caverna com vida. Enquanto isso, as vítimas do ataque à caravana armam um plano para buscar ajuda, dando início à pequena jornada de Daniel e seus novos companheiros pelos mistérios do Bosque do Retorno.
+|1n2=2
+|1c2=2
+|1p2=1
+|1k2=2
+
+|1x3=[["Entre Amigos" (1x3)]]
+|1d3=23/03/2019
+|1r3=Preocupados com uma possível nova ameaça por parte de Edmund e seus segredos, Eryn e Sinbad partem em busca de seus companheiros que se aproximam da Vila do Dente Quebrado. O grupo conhece novos aliados e antes de partir com ajuda fazem descobertas importantes sobre o passado trágico do líder da caravana.
+|1n3=3
+|1c3=3
+|1p3=1
+|1k3=3
+
+|1x4=[["Personalidades à Tona" (1x4)]]
+|1d4=31/03/2019
+|1r4=Procurando saciar a própria curiosidade, Roran iniciou uma busca pelo famoso bardo Pilif McLouvren e foi vítima de muitas surpresas. Partindo novamente, o grupo não imagina os mistérios e perigos que os aguardam no caminho de volta à caravana.
+|1n4=4
+|1c4=4
+|1p4=1
+|1k4=4
+
+|1x5=[["Olhares na Escuridão" (1x5)]]
+|1d5=
+|1r5=Exaustos da batalha e impactados com o restante da triste história de Edmund, os aventureiros planejam como será a viagem da caravana até a Vila do Dente Quebrado. Divididos e atentos, o grupo se aproxima de mais uma emboscada que revelará segredos importantes.
+|1n5=5
+|1c5=5
+|1p5=1
+|1k5=5
+
+|1x6=[["Apenas um Show" (1x6)]]
+|1d6=
+|1r6=Finalmente seguros na Vila do Dente Quebrado, o grupo se separou para concluir seus afazeres. Sinbad planejou uma espetáculo juntamente com Thanas, mas descobriu da pior maneira que não se deve confiar em estranhos.
+|1n6=6
+|1c6=6
+|1p6=1
+|1k6=6
+
+|1x7=[["Entre a Vida e as Flores: Uma História em 7 Atos" (1x7)]]
+|1d7=13/07/2019
+|1r7=Pagando o preço das atitudes impensadas de Sinbad, o grupo deu início a uma promissora peça de teatro. O que os aguarda mais tarde, entretanto, pode não ser tão promissor quanto eles imaginam.
+|1n7=7
+|1c7=7
+|1p7=1
+|1k7=7
+
+|1x8=[["Tempos Sombrios" (1x8)]]
+|1d8=
+|1r8=Após lidar com a súbita ameaça que surgira diante de seus olhos ao fim do espetáculo, o grupo se viu cercado de guardas que os consideram os principais suspeitos de terem causado o ataque.
+|1n8=8
+|1c8=8
+|1p8=1
+|1k8=8
+
+|1x9=[["Vínculo em Carne e Osso" (1x9)]]
+|1d9=
+|1r9=Reafirmando o compromisso de colaborar com a investigação, os Vingadores descobriram que seus companheiros haviam sido capturados durante o ataque. Para salvá-los eles terão que enfrentar desafios muito maiores do que os vivenciados até agora.
+|1n9=9
+|1c9=9
+|1p9=1
+|1k9=9
+
+|1x10=[["Encruzilhada" (1x10)]]
+|1d10=10/08/2019
+|1r10=Com a recém chegada do bárbaro Gul'Burz, os Vingadores continuaram adentrando a misteriosa caverna em busca de seus companheiros. Enquanto isso, ao sul da Vila do Dente Quebrado, uma dupla de viajantes enfrenta um novo desafio em meio à sua busca por um mago poderoso.
+|1n10=10
+|1c10=10
+|1p10=1
+|1k10=10
+
+|1x11=[["Grandes Problemas" (1x11)]]
+|1d11=17/08/2019
+|1r11=A dupla de viajantes Hakai e Ielenia faz uma descoberta horrenda sobre Toisan e se dirigem para uma caverna na floresta à leste da Vila do Dente Quebrado. Lá, eles encontram os Vingadores que simultaneamente enfrentam mais um de seus perigosos desafios.
+|1n11=11
+|1c11=11
+|1p11=1
+|1k11=11
+
+|1x12=[["Morte" (1x12)]]
+|1d12=
+|1r12=Após um merecido descanso e com a vida de seus companheiros em jogo os aventureiros avançam pelo último túnel da caverna e se preparam para a batalha final contra o responsável pelos recentes e antigos acontecimentos.
+|1n12=12
+|1c12=12
+|1p12=1
+|1k12=12
+
+|1x13=[["Nas Mãos do Destino" (1x13)]]
+|1d13=
+|1r13=Os aventureiros finalmente se despediram da misteriosa caverna enquanto carregavam consigo o corpo de um companheiro. Na cidade, eles receberam as recompensas prometidas e definitivamente escolheram um nome para o agora completo grupo.
+|1n13=13
+|1c13=13
+|1p13=1
+|1k13=13
+
+|1x14=[["Instinto Selvagem" (1x14)]]
+|1d14=
+|1r14=Após o velório de seus companheiros A Mão se dividiu e focou seus esforços em amarrar as pontas soltas e arrecadar fundos para seus próximos objetivos.
+|1n14=14
+|1c14=14
+|1p14=2
+|1k14=1
+
+|1x15=[["Destino: Lorelheim" (1x15)]]
+|1d15=
+|1r15=Sem sucesso em obter novas pistas sobre o paradeiro da caixa e com uma serie de possibilidades de destinos em mente A Mão deu início à tão esperada jornada até a capital do reino de Lorelheim.
+|1n15=15
+|1c15=15
+|1p15=2
+|1k15=2
+
+|1x16=[["A Cidade de Tudo" (1x16)]]
+|1d16=
+|1r16=Após uma longa viagem repleta de imprevistos e dificuldades o grupo de aventureiros conhecido como A Mão da seus primeiros passos pela grandiosa metrópole de Lorelheim.
+|1n16=16
+|1c16=16
+|1p16=2
+|1k16=3
+
+|1x17=[["Teste de Ouro" (1x17)]]
+|1d17=20/10/2019
+|1r17=Explorando o ambiente do distrito Apotecário de Lorelheim A Mão se deparou com outro grupo de aventureiros que demonstrou grande interesse em uma aliança. A ajuda é tentadora mas, para obtê-la, será necessário passar por um estranho e inusitado teste.
+|1n17=17
+|1c17=17
+|1p17=2
+|1k17=4
+
+|1x18=[["Subterfúgio" (1x18)]]
+|1d18=26/10/2019
+|1r18=Tendo adquirido o renome suficiente para fazer parte da Lâmina de Ouro A Mão se prepara e parte para o Distrito Residencial com o objetivo de concluir sua primeira missão em nome da guilda.
+|1n18=18
+|1c18=18
+|1p18=2
+|1k18=5
+
+|1x19=[["Presságios da Noite" (1x19)]]
+|1d19=09/11/2019
+|1r19=Com o sucesso da operação de infiltração A Mão encontrou diversas pistas que indicam o real motivo da visita de Bezimir à capital. Além disso eles descobriram que um de seus recorrentes inimigos está de volta mas, dessa vez, por trás de um novo mistério.
+|1n19=19
+|1c19=19
+|1p19=2
+|1k19=6
+
+|1x20=[["Desafio Sob Fogo" (1x20)]]
+|1d20=17/11/2019
+|1r20=Sem um plano e cheios de preocupações A Mão iniciou sua vigia noturna com esperanças de conseguir interceptar seus inimigos antes que seja tarde. Um combate foi desencadeado e o lado vencedor será escolhido através de uma batalha de persistência.
+|1n20=20
+|1c20=20
+|1p20=2
+|1k20=7
+
+|1x21=[["Experiência de Ouro" (1x21)]]
+|1d21=24/11/2019
+|1r21=Retornando para a guilda e reagrupando seus integrantes A Mão interroga Bezimir e desvenda segredos sobre os Soldados da Noite enquanto simultaneamente planejam seu próximo plano de ação.
+|1n21=21
+|1c21=21
+|1p21=2
+|1k21=8
+
+|1x22=[["Lamento do Dragão" (1x22)]]
+|1d22=07/12/2019
+|1r22=A Mão reserva o dia para resolver assuntos pendentes e aceita mais um trabalho da guilda Lâmina de Ouro. O destino é incerto mas o primeiro desafio se faz presente logo no início da caminhada.
+|1n22=22
+|1c22=22
+|1p22=3
+|1k22=1
+
+|1x23=[["Novas Raízes" (1x23)]]
+|1d23=15/12/2019
+|1r23=Se recuperando e prosseguindo com um enterro digno para Hakai, A Mão segue seu compromisso firmado ao lado de dois novos defensores da natureza.
+|1n23=23
+|1c23=23
+|1p23=3
+|1k23=2
+
+|1x24=[["Proteção Natural" (1x24)]]
+|1d24=22/12/2019
+|1r24=A Mão tem seu descanso interrompido quando Tonfir e os outros entes da floresta pedem ajuda para lidar com uma perigosa ameaça à natureza.
+|1n24=24
+|1c24=24
+|1p24=3
+|1k24=3
+
+|1x25=[["Sem Saída" (1x25)]]
+|1d25=17/01/2020
+|1r25=Descansados de seu último combate A Mão continua sua jornada até o litoral. Entretanto, a segunda metade do trajeto promete ser ainda mais perigosa, agora que o grupo deverá superar os desafios do pântano.
+|1n25=25
+|1c25=25
+|1p25=3
+|1k25=4
+
+|1x26=[["A Vida Cobra" (1x26)]]
+|1d26=26/01/2020
+|1r26=Ameaçados pelos homens-lagarto A Mão é obrigada a enfrentar um ser poderoso que habita o pântano, enquanto se dedica a entender seus mistérios e evitar brigas internas que podem comprometer todo o progresso da missão.
+|1n26=26
+|1c26=26
+|1p26=3
+|1k26=5
+
+|1x27=[["Chamado da Noite" (1x27)]]
+|1d27=31/01/2020
+|1r27=Cercados por um ambiente hostil e perigoso A Mão se preocupa em resolver seus problemas internos enquanto se deparam com uma nova aliada que possui uma conexão misteriosa com Eryn Montreal.
+|1n27=27
+|1c27=27
+|1p27=3
+|1k27=6
+
+|1x28=[["Aposta Arriscada" (1x28)]]
+|1d28=08/02/2020
+|1r28=Com a chegada da Mão na vila de Irus o grupo precisa se concentrar em desvendar os mistérios da região enquanto lutam para impedir Stephen Sianodel de acabar com a integridade do time.
+|1n28=28
+|1c28=28
+|1p28=3
+|1k28=7
+
+|1x29=[["Calma Antes da Tempestade" (1x29)]]
+|1d29=14/02/2020
+|1r29=A Mão se prepara para a perigosa viagem até a ilha de Melidria. Enquanto isso, Gul'Burz reencontra seus companheiros e o grupo dá uma nova chance de redenção à Stephen Sianodel.
+|1n29=29
+|1c29=29
+|1p29=3
+|1k29=8
+
+|1x30=[["Em Águas Vorazes" (1x30)]]
+|1d30=28/02/2020
+|1r30=A Mão inicia sua viagem marítima até a misteriosa ilha de Melidria e se depara com desafios perigosos e mortais em alto mar.
+|1n30=30
+|1c30=30
+|1p30=3
+|1k30=9
+
+|1x31=[["O Que os Olhos Não Veem" (1x31)]]
+|1d31=06/09/2020
+|1r31=Com sua chegada na ilha de Melidria o grupo se depara com um ambiente estranho e ameaçador. Focados em seguir adiante eles iniciam um percurso repleto de enigmas e incertezas.
+|1n31=31
+|1c31=31
+|1p31=3
+|1k31=10
+
+|1x32=[["Sob as Montanhas Congeladas" (1x32)]]
+|1d32=12/09/2020
+|1r32=Seguindo adiante a Mão descobre mais detalhes sobre o estranho mistério dos dragões enquanto escutam de Kiran Firinori a verdadeira história por trás de sua viagem até a ilha.
+|1n32=32
+|1c32=32
+|1p32=3
+|1k32=11
+
+|1x33=[["O Despertar" (1x33)]]
+|1d33=02/11/2020
+|1r33=Alcançando a reta final de sua jornada até Melidria os aventureiros avançam em direção ao centro da ilha e confrontam a verdadeira natureza por trás dessas misteriosas terras congeladas.
+|1n33=33
+|1c33=33
+|1p33=3
+|1k33=12
+
+<!-- ===== CAMPANHA 2 ===== -->
+|2x1=[["Cheiro de Porco Assado" (2x1)]]
+|2d1=18/09/2021
+|2r1=O cheiro de javali assado preparado para os hóspedes da taverna Porco Selvagem atrai um terrível ogro da floresta que ameaça a segurança de todos. Agora, cabe à eles deter essa temível criatura antes que os próprios clientes se tornem o verdadeiro jantar.
+|2n1=34
+|2c1=1
+|2p1=4
+|2k1=1
+
+|2x2=[["Corpos Famintos" (2x2)]]
+|2d2=25/09/2021
+|2r2=Concordando em ajudar Nissa à recuperar a mercadoria perdida, os viajantes e hóspedes da taverna Porco Selvagem saem rumo à floresta e encontram desafios inesperados.
+|2n2=35
+|2c2=2
+|2p2=4
+|2k2=2
+
+|2x3=[["Mente Submersa" (2x3)]]
+|2d3=02/10/2021
+|2r3=Adentrando mais a fundo na caverna misteriosa os viajantes se deparam com novas criaturas malignas enquanto Callahad luta uma batalha psicológica contra um inimigo desconhecido.
+|2n3=36
+|2c3=3
+|2p3=4
+|2k3=3
+
+|2x4=[["Curiosidade Luminosa" (2x4)]]
+|2d4=23/10/2021
+|2r4=Após dar uma triste notícia à Nissa e constatar que a região é perigosa demais para se viver os viajantes convencem a elfa a retornar para sua cidade e concordaram em acompanhá-la durante o trajeto. Entretanto, como eles bem imaginavam, o caminho até Eluin não é tão amistoso quanto era antigamente.
+|2n4=37
+|2c4=4
+|2p4=4
+|2k4=4
+
+|2x5=[["Correr & Atirar" (2x5)]]
+|2d5=05/02/2022
+|2r5=Os aventureiros chegam à Eluin e conhecem Velka, uma elfa da floresta que os contratou para recuperar um item valioso que havia sido roubado por um grupo de ladrões.
+|2n5=38
+|2c5=5
+|2p5=4
+|2k5=5
+
+|2x6=[["Caça às Feras Mágicas" (2x6)]]
+|2d6=19/02/2022
+|2r6=O grande festival Flamma Élfico finalmente se inicia e os aventureiros se inscrevem no evento principal de Caça às Feras Mágicas organizado pelos próprios regentes de Eluin.
+|2n6=39
+|2c6=6
+|2p6=4
+|2k6=6
+
+|2x7=[["Encontro Diabólico" (2x7)]]
+|2d7=12/03/2022
+|2r7=Durante a Caça às Feras Mágicas os aventureiros se deparam com uma criatura diabólica e precisam se unir com sobreviventes de outro grupo para enfrentar a nova ameaça.
+|2n7=40
+|2c7=7
+|2p7=4
+|2k7=7
+
+|2x8=[["Sob Alerta" (2x8)]]
+|2d8=26/03/2022
+|2r8=Empenhados em alertar os regentes de Eluin sobre os estranhos acontecimentos ocorridos na noite anterior os aventureiros decidem aplicar uma abordagem direta durante o festival e conseguem de maneira incisiva chamar a atenção de Lady Bruma e Lord Fafnir.
+|2n8=41
+|2c8=8
+|2p8=4
+|2k8=8
+
+|2x9=[["Cripta de Eluin" (2x9)]]
+|2d9=01/05/2022
+|2r9=Seguindo as orientações de Lady Bruma os aventureiros prosseguiram com a missão e adentraram a antiga cripta da cidade de Eluin em busca de algo que os ajude a combater a nova e perigosa ameaça diabólica.
+|2n9=42
+|2c9=9
+|2p9=4
+|2k9=9
+
+|2x10=[["Arena do Triunfo" (2x10)]]
+|2d10=14/05/2022
+|2r10=Com as recentes descobertas na antiga Cripta de Eluin os aventureiros reportaram a situação para os lordes de Eluin e foram convocados às pressas perante um ataque próximo à cidade.
+|2n10=43
+|2c10=10
+|2p10=4
+|2k10=10
+
+|2x11=[["Sombras do Passado" (2x11)]]
+|2d11=11/06/2022
+|2r11=Tendo derrotado o demônio responsável pelos ataques e descobrindo que suas ações eram moldadas por vingança o grupo resolveu tirar a limpo seus questionamentos diretamente com os lordes de Eluin.
+|2n11=44
+|2c11=11
+|2p11=4
+|2k11=11
+
+|2x12=[["Até que a Morte os Separe" (2x12)]]
+|2d12=17/06/2022
+|2r12=Enganados pelos regentes de Eluin os Backstreet Boys se veem presos no laboratório de Lady Bruma e são obrigados a lutar por suas vidas enquanto uma invasão dos elfos do norte acontece na base militar da cidade.
+|2n12=45
+|2c12=12
+|2p12=4
+|2k12=12
+
+|2x13=[["Em Rota de Fuga" (2x13)]]
+|2d13=10/07/2022
+|2r13=Após um confronto direto contra os regentes de Eluin os Backstreet Boys acompanham os elfos do norte em sua fuga e cautelosamente planejam seus próximos passos.
+|2n13=46
+|2c13=13
+|2p13=5
+|2k13=1
+
+|2x14=[["Vida de Crime" (2x14)]]
+|2d14=31/07/2022
+|2r14=Na manhã do grande e festivo Dia da Plantação os Backstreet Boys se aproveitam do acordo que fizeram com Orym para estar um passo a frente de seus alvos e armam um plano para roubar o item mágico que eles tanto procuram.
+|2n14=47
+|2c14=14
+|2p14=5
+|2k14=2
+
+|2x15=[["Deixando o Passado" (2x15)]]
+|2d15=27/08/2022
+|2r15=Temendo as consequências dos recentes acontecimentos e percebendo que Eluin estava se tornando um local perigoso os Backstreet Boys tomam a decisão de abandonar seus objetivos e partir junto dos elfos do norte em direção à Valindor.
+|2n15=48
+|2c15=15
+|2p15=5
+|2k15=3
+
+|2x16=[["Destino: Valindor" (2x16)]]
+|2d16=11/09/2022
+|2r16=A bordo da grande embarcação élfica os aventureiros iniciam uma longa, perigosa e intrigante viagem rumo à cidade dos elfos do norte. Valindor.
+|2n16=49
+|2c16=16
+|2p16=5
+|2k16=4
+
+|2x17=[["Perspectivas" (2x17)]]
+|2d17=24/09/2022
+|2r17=Os Backstreet Boys desembarcam em Valindor após 3 longas semanas de viagem, e tiram o dia para fazer negócios, descansar e desfrutar dos novos ares, longe das ameaças e perigos do sul.
+|2n17=50
+|2c17=17
+|2p17=5
+|2k17=5
+
+|2x18=[["A Nova Jornada" (2x18)]]
+|2d18=22/10/2022
+|2r18=Após realizar negócios em Valindor e considerar seus próximos passos, os Backstreet Boys decidem seguir em direção à Ferromir, em busca das antigas terras de Marlin e dos segredos escondidos de Korimarek.
+|2n18=51
+|2c18=18
+|2p18=5
+|2k18=6
+
+|2x19=[["Sob a Máscara" (2x19)]]
+|2d19=29/10/2022
+|2r19=Os Backstreet Boys seguem sua jornada e após dias de viagem chegam em Ashenvar, o centro do Reino de Lenoir, e se surpreendem quando são abordados com pendências de seu passado.
+|2n19=52
+|2c19=19
+|2p19=5
+|2k19=7
+
+|2x20=[["Do Outro Lado da Guerra" (2x20)]]
+|2d20=05/11/2022
+|2r20=As eleições no Reino de Lenoir se aproximam e Ashenvar se torna um grande ponto de encontro com a chegada de Rei Syleth e Lady Bruma.  Preocupados, os Backstreet Boys fazem de tudo para alertar Caraman e os elfos do norte de uma possível ameaça.
+|2n20=53
+|2c20=20
+|2p20=5
+|2k20=8
+
+|2x21=[["Terra Arruinada" (2x21)]]
+|2d21=07/01/2023
+|2r21=Investidos em ajudar Caraman e os elfos do norte os Backstreet Boys adentram as florestas místicas de Ashenvar em busca de uma substância capaz de curar um dos anciões de sua misteriosa doença.
+|2n21=54
+|2c21=21
+|2p21=5
+|2k21=9
+
+|2x22=[["Destino: Ragnar" (2x22)]]
+|2d22=21/01/2023
+|2r22=Temendo as consequências de seus atos e focados em seguir adiante os Backstreet Boys fecham um acordo com Caraman e são enviados de imediato para a próxima parada de sua jornada: o famoso Reino de Ragnar.
+|2n22=55
+|2c22=22
+|2p22=5
+|2k22=10
+
+|2x23=[["Os Túneis" (2x23)]]
+|2d23=29/01/2023
+|2r23=Ragnar é uma cidade que guarda muito mais segredos do que aparenta e, adentrando no mundo subterrâneo, os Backstreet Boys buscam aumentar sua rede e reatar pontas soltas de seu passado.
+|2n23=56
+|2c23=23
+|2p23=5
+|2k23=11
+
+|2x24=[["Sobre a Máscara" (2x24)]]
+|2d24=11/02/2023
+|2r24=O tão aguardado reencontro dos Backstreet Boys com Os Fantasmas finalmente acontece e os túneis de Ragnar se transformam num perigoso campo de batalha para os dois grupos.
+|2n24=57
+|2c24=24
+|2p24=5
+|2k24=12
+
+|2x25=[["À Beira do Abismo" (2x25)]]
+|2d25=25/02/2023
+|2r25=Ao tirar a máscara de Forgio os Backstreet Boys são afetados por um poderoso efeito mágico que os transporta para um lugar inóspito e terrível.
+|2n25=58
+|2c25=25
+|2p25=5
+|2k25=13
+
+|2x26=[["Destino: Ferromir" (2x26)]]
+|2d26=05/03/2023
+|2r26=Os Backstreet Boys se recuperam na Vila da Fonte Clara e se preparam para darem início à parte final da viagem até o Reino de Ferromir.
+|2n26=59
+|2c26=26
+|2p26=6
+|2k26=1
+
+|2x27=[["A Cidade dos Anões" (2x27)]]
+|2d27=12/03/2023
+|2r27=Saindo de Vuran os Backstreet Boys viajam até a capital, buscando encontrar velhos amigos de Marlin e reacender a chama de uma necessária revolução.
+|2n27=60
+|2c27=27
+|2p27=6
+|2k27=2
+
+|2x28=[["Falsas Identidades" (2x28)]]
+|2d28=19/03/2023
+|2r28=Com a missão de encontrar Valina Lettsa os Backstreet Boys elevam suas habilidades sociais ao extremo e executam um plano para adentrar nas minas de Ferromir.
+|2n28=61
+|2c28=28
+|2p28=6
+|2k28=3
+
+|2x29=[["Além das Minas Subterrâneas" (2x29)]]
+|2d29=25/03/2023
+|2r29=Após descender ao ponto mais subterrâneo dos túneis os aventureiros precisam desvendar o mistério do local onde estão enquanto se deparam com uma serie de encontros desafiadores.
+|2n29=62
+|2c29=29
+|2p29=6
+|2k29=4
+
+|2x30=[["Underdark" (2x30)]]
+|2d30=07/04/2023
+|2r30=Tentando superar os desafios do mundo subterrâneo, os Backstret Boys descobrem parte dos planos de seus inimigos e agora precisam escapar com vida do ambiente perigoso e hostiel em que se econtram,
+|2n30=63
+|2c30=30
+|2p30=6
+|2k30=5
+
+|2x31=[["Plano de Revolta" (2x31)]]
+|2d31=22/04/2023
+|2r31=Valina foi resgatada em segurança enquanto Deremir reunia mais nomes em prol da causa. Agora, juntos, os líderes da revolução e os Backstreet Boys armam um plano para trazer o maior número de reforços possível para o seu lado.
+|2n31=64
+|2c31=31
+|2p31=6
+|2k31=6
+
+|2x32=[["Na Forja da Alma" (2x32)]]
+|2d32=21/05/2023
+|2r32=Halhard é o primeiro nome a ser cogitado em busca de uma aliança poderosa, fazendo da Forja da Alma o próximo destino dos Backstreet Boys.
+|2n32=65
+|2c32=32
+|2p32=6
+|2k32=7
+
+|2x33=[["Catedral da Chama" (2x33)]]
+|2d33=04/06/2023
+|2r33=Da Forja da Alma para a Catedral da Chama, os aventureiros vão em busca de Larenia, uma sacerdotisa de renome em Ferromir que pode ser de grande ajuda na revolta que se aproxima.
+|2n33=66
+|2c33=33
+|2p33=6
+|2k33=8
+
+|2x34=[["A Subida" (2x34)]]
+|2d34=06/08/2023
+|2r34=A grande revolta se inicia. Depositando a fé em seus companheiros e aliados, os aventureiros seguem em direção ao objetivo principal: a sala do trono.
+|2n34=67
+|2c34=34
+|2p34=6
+|2k34=9
+
+|2x35=[["Confronto na Sala do Trono" (2x35)]]
+|2d35=15/08/2023
+|2r35=O encontro com Delver se aproxima, mas na sala do trono um combate se inicia: Backstreet Boys vs Seirigrand.
+|2n35=68
+|2c35=35
+|2p35=6
+|2k35=10
+
+|2x36=[["Juramento da Vingança" (2x36)]]
+|2d36=25/08/2023
+|2r36=Adentrando um misterioso portal os Backstreet Boys exploram uma antiga cidade duergar em busca de Delver, mas são surpreendidos com inimigos muito mais poderosos do que eles imaginavam.
+|2n36=69
+|2c36=36
+|2p36=6
+|2k36=11
+
+|2x37=[["Novo Reinado" (2x37)]]
+|2d37=02/09/2023
+|2r37=Os Backstreet Boys são confrontados na sala do trono pelos quatro líderes da capital, e devem convencê-los de que Delver era o verdadeiro vilão. A nova era de Ferromir se aproxima e, juntamente com ela, um novo reinado.
+|2n37=70
+|2c37=37
+|2p37=6
+|2k37=12
+
+|2x38=[["Destino: Valhaduhr" (2x38)]]
+|2d38=17/09/2023
+|2r38=Despedindo-se de seus grandes aliados os Backstreet Boys partem para uma nova e importante jornada rumo à cidade de Valhaduhr, em busca da montanha mais alta do reino de Ferromir.
+|2n38=71
+|2c38=38
+|2p38=7
+|2k38=1
+
+|2x39=[["Briga de Taverna" (2x39)]]
+|2d39=22/10/2023
+|2r39=Na cidade de Valhaduhr os Backstreet Boys percebem uma suspeita movimentação de elfos, e são confrontados por um estranho espião de Ragnar que busca levá-los de volta à cidade.
+|2n39=72
+|2c39=39
+|2p39=7
+|2k39=2
+
+|2x40=[["Encontro Totêmico" (2x40)]]
+|2d40=04/11/2023
+|2r40=Rumo a leste os Backstreet Boys encontram Zavior, um xamã excêntrico e experiente que provê valiosos segredos sobre a Montanha do Inverno Eterno e seu velho amigo, Codridravàl.
+|2n40=73
+|2c40=40
+|2p40=7
+|2k40=3
+
+|2x41=[["Convergência" (2x41)]]
+|2d41=06/01/2024
+|2r41=Capturada por gigantes de gelo, Mei Li encontra seus antigos companheiros e, juntos, eles avançam rumo ao pico congelado da montanha mais alta do continente.
+|2n41=74
+|2c41=41
+|2p41=7
+|2k41=4
+
+<!-- Frossfjell (novo, inserido como 2x42) -->
+|2x42=[["Frossfjell" (2x42)]]
+|2d42=14/01/2024
+|2r42=
+|2n42=75
+|2c42=42
+|2p42=7
+|2k42=5
+
+|2x43=[["Coridravàl, o Magnífico" (2x43)]]
+|2d43=09/03/2024
+|2r43=Atravessando o acampamento dos gigantes da tribo de Frossfjell os aventureiros alcançam a câmara escondida que guarda o tão acalamdo mestre de Korimarek.
+|2n43=76
+|2c43=43
+|2p43=7
+|2k43=6
+
+|2x44=[["Batalha dos 4 Exércitos" (2x44)]]
+|2d44=20/04/2024
+|2r44=Vislumbrando o majestoso dragão voando sob os céus, os Backstreet Boys se veêm em meio a uma batalha caótica e precisam lutar pela própria vida contra velhos e novos inimigos.
+|2n44=77
+|2c44=44
+|2p44=7
+|2k44=7
+
+|2x45=[["Sob o Templo de Bahamut" (2x45)]]
+|2d45=04/05/2024
+|2r45=Retornando à cidade o grupo decide fazer um último favor a Coridravàl e inicia uma investigação sob o sagrado Templo de Bahamut.
+|2n45=78
+|2c45=45
+|2p45=7
+|2k45=8
+
+|2x46=[["Tesouro Sagrado" (2x46)]]
+|2d46=01/06/2024
+|2r46=Explorando os interiores do templo o grupo encontra resquícios da magia divina de Coridravàl e descobre um antigo covil oculto por uma poderosa ilusão.
+|2n46=79
+|2c46=46
+|2p46=7
+|2k46=9
+
+|2x47=[["Dois Anos Depois: Parte 1" (2x47)]]
+|2d47=11/01/2025
+|2r47=Os Backstreet Boys se separam. Caminhos divergem em busca de informações. Novas amizades se formam e velhos conhecidos se reencontram. O início de dois longos anos.
+|2n47=80
+|2c47=47
+|2p47=8
+|2k47=1
+
+|2x48=[["Dois Anos Depois: Parte 2" (2x48)]]
+|2d48=18/01/2025
+|2r48=Dois anos de passam e Callahad dá a ordem. Os Backstreet Boys devem se reunir novamente em Ragnar, e a caça ao grande inimigo se inicia.
+|2n48=81
+|2c48=48
+|2p48=8
+|2k48=2
+
+|2x49=[["O Covil Abandonado" (2x49)]]
+|2d49=01/02/2025
+|2r49=A mando dos Glaives os aventureiros adentram a antiga base dos Fantasmas, e descobrem os segredos até então ocultos por Forgio e seus aliados.
+|2n49=82
+|2c49=49
+|2p49=9
+|2k49=1
+
+|2x50=[["Olhar Profundo" (2x50)]]
+|2d50=08/02/2025
+|2r50=Após descobertas sobre o passado do antigo líder dos Fantasmas e os próximos planos da organização, o grupo lida com os resquícios de experimentos ocultos deixados para trás.
+|2n50=83
+|2c50=50
+|2p50=9
+|2k50=2
+
+|2x51=[["Nova Luta" (2x51)]]
+|2d51=15/02/2025
+|2r51=Em mais um grande evento de luta nos Túneis os Backstreet Boys entram em contato com Miquê, e descobrem sua verdadeira intenção em relação aos Fantasmas.
+|2n51=84
+|2c51=51
+|2p51=9
+|2k51=3
+
+|2x52=[["Os Glaives" (2x52)]]
+|2d52=08/03/2025
+|2r52=Oficialmente aliados aos Glaives o grupo inicia mais uma grande jornada rumo aos mares do leste, preparados para enfrentar a causa do mal que os aflinge dia após dia.
+|2n52=85
+|2c52=52
+|2p52=9
+|2k52=4
+
+<!-- ===== CAMPANHA 3 ===== -->
+|3x1=[["Noite de Sorte" (3x1)]]
+|3d1=24/08/2025
+|3r1=Um grupo de viajantes se depara com traiçoeiros inimigos na floresta, e precisam trabalhar em conjunto para deter as criaturas e proteger a vida de seus companheiros.
+|3n1=86
+|3c1=1
+|3p1=10
+|3k1=1
+
+|3x2=[["Avanço Furtivo" (3x2)]]
+|3d2=07/09/2025
+|3r2=Os viajantes chegam na cidade de Dalimar e são recrutados pela guarda local para investigar o mistério da ponte do Rio Pálido.
+|3n2=87
+|3c2=2
+|3p2=10
+|3k2=2
+
+|3x3=[["Encontro Natural" (3x3)]]
+|3d3=21/09/2025
+|3r3=O recém formado grupo STF segue em direção ao Pântano Pálido em busca de uma druida que pode ajudá-los com o estranho problema dos goblins que aflinge Dalimar.
+|3n3=88
+|3c3=3
+|3p3=10
+|3k3=3
+
+|3x4=[["Amigos e Inimigos Rastejantes" (3x4)]]
+|3d4=05/10/2025
+|3r4=Os aventureiros adentram o Pântano Pálido e enfrentam seus desafios naturais em busca da toxina capaz de neutralizar os goblins da ponte.
+|3n4=89
+|3c4=4
+|3p4=10
+|3k4=4
+
+|3x5=[["Ciências Aplicadas" (3x5)]]
+|3d5=02/11/2025
+|3r5=Desfrutando de todo seu conhecimento científico e habilidades manuais, o STF se reúne para criar os componentes necessários para consolidar seu tão elaborado plano de ataque.
+|3n5=90
+|3c5=5
+|3p5=10
+|3k5=5
+
+|3x6=[["Núvem de Veneno" (3x6)]]
+|3d6=16/11/2025
+|3r6=Após todos os preparativos a investida contra o acampamento goblin é iniciada e o plano de ataque do STF é finalmente colocado em execução.
+|3n6=91
+|3c6=6
+|3p6=10
+|3k6=6
+
+|3x7=[["Abrir/Fechar Porta" (3x7)]]
+|3d7=11/01/2026
+|3r7=Um crime acontece no quarto ao lado, e o STF se vê responsável por investigar a morte de seu antigo companheiro de viagem.
+|3n7=92
+|3c7=7
+|3p7=11
+|3k7=1
+
+|3x8=[["Faces Ocultas" (3x8)]]
+|3d8=08/03/2026
+|3r8=O STF vai atrás de pistas sobre o assassinato de seu companheiro de viagem, Fuhan, e se veêm na presença de velhos e novos amigos.
+|3n8=93
+|3c8=8
+|3p8=11
+|3k8=2
+
+|3x9=[["Laços Fúnebres" (3x9)]]
+|3d9=22/03/2026
+|3r9=Entendendo seus dilemas pessoais e compartilhando suas histórias, o STF alinha um objetivo conjunto, e se preparam para viajar rumo a um novo destino.
+|3n9=94
+|3c9=9
+|3p9=11
+|3k9=3
+
+|3x10=[["Diálogo Entre Inimigos" (3x10)]]
+|3d10=19/04/2026
+|3r10=Após iniciar uma nova viagem Alexander precisa confrontar antigas figuras de seu passado, enquanto uma nova ameaça aparece sobre a ponte Rio Pálido.
+|3n10=95
+|3c10=10
+|3p10=11
+|3k10=4
+
+
+<!-- ===== METADADOS ===== -->
+|last=3x10
+
+}}</includeonly>

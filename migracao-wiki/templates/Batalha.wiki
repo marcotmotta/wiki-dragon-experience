@@ -1,0 +1,55 @@
+<infobox>
+  <title source="title1">
+    <default>{{PAGENAME}}</default>
+  </title>
+  <image source="image1">
+    <caption source="caption1"/>
+  </image>
+  <data source="início">
+    <label>Início</label>
+  </data>
+  <data source="término">
+    <label>Término</label>
+  </data>
+  <data source="local">
+    <label>Local</label>
+  </data>
+  <data source="resultado">
+    <label>Resultado</label>
+  </data>
+  <data source="principais_confrontos">
+    <label>Principais Confrontos</label>
+  </data>
+  <group layout="horizontal" show="incomplete">
+    <header>Combatentes</header>
+    <data source="combatentes1"/>
+    <data source="combatentes2"/>
+  </group>
+  <group layout="horizontal" show="incomplete">
+    <header>Líderes e Comandantes</header>
+    <data source="comandantes1"/>
+    <data source="comandantes2"/>
+  </group>
+  <group layout="horizontal" show="incomplete">
+    <header>Perdas</header>
+    <data source="perdas1"/>
+    <data source="perdas2"/>
+  </group>
+</infobox>
+<noinclude>
+Exemplo de uso:<pre>
+{{Batalha
+|title1=Exemplo
+|image1=Exemplo
+|caption1=Exemplo
+|início=Exemplo
+|término=Exemplo
+|local=Exemplo
+|resultado=Exemplo
+|principais_confrontos=Exemplo
+|row6=Exemplo
+|row8=Exemplo
+|row9=Exemplo
+}}
+</pre>
+</noinclude>
