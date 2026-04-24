@@ -25,11 +25,13 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import Infobox from "./Infobox"
 import GraphCustom from "./GraphCustom"
+import ParteChapters from "./ParteChapters"
 
 export {
   ArticleTitle,
   Infobox,
   GraphCustom,
+  ParteChapters,
   Content,
   TagContent,
   FolderContent,

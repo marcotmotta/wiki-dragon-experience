@@ -13,3 +13,7 @@ replit.nix
 content/.obsidian/workspace.json
 content/.obsidian/workspace-mobile.json
 content/.obsidian/cache
+
+# Artefatos locais da migração (reproduzíveis a partir de dump.xml)
+migracao-wiki/demo-raw/
+migracao-wiki/dump.xml.bak-*
