@@ -23,7 +23,9 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
-          node-version: 24
+          # Usa a versão pinada em .node-version (v24.15.0) pra casar com
+          # a exigência de npm >= 11.12.1 do package.json.
+          node-version-file: '.node-version'
       - name: Install dependencies
         run: npm ci
       - name: Build Quartz
