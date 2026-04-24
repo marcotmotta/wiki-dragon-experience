@@ -1,5 +1,72 @@
 @use "../../styles/variables.scss" as *;
 
+// Callout `> [!figure]` — caixa que envolve uma imagem + legenda abaixo.
+// Largura da box = largura da imagem (vem do `![[X|N]]`); legenda quebra linha
+// dentro da box em vez de expandi-la. Mesma regra deve valer pro Obsidian via
+// CSS snippet (.obsidian/snippets/figure-callout.css).
+.callout[data-callout="figure"] {
+  // display: table é o único layout CSS que dimensiona pela menor largura
+  // necessária pra conteúdo não-quebrável (imagem) e clampa caption via
+  // table-caption à largura da tabela. É exatamente o que queremos.
+  display: table;
+  max-width: 100%;
+  margin: 0.75rem 0;
+  padding: 0.35rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+  background: var(--light);
+  box-sizing: border-box;
+
+  // Variantes de alinhamento via metadata do callout:
+  //   > [!figure|left] caption   → float esquerda, texto contorna à direita
+  //   > [!figure|right] caption  → float direita
+  //   > [!figure|center] caption → bloco centralizado (sem wrap de texto)
+  &[data-callout-metadata="left"] {
+    float: left;
+    margin: 0.5rem 1.25rem 0.5rem 0;
+  }
+  &[data-callout-metadata="right"] {
+    float: right;
+    margin: 0.5rem 0 0.5rem 1.25rem;
+  }
+  &[data-callout-metadata="center"] {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .callout-title {
+    display: table-caption;
+    caption-side: bottom;
+    padding: 0.4rem 0.5rem 0.2rem;
+    font-size: 0.85em;
+    font-style: italic;
+    font-weight: 400;
+    color: var(--darkgray);
+    background: transparent;
+    border: none;
+    text-align: center;
+
+    .callout-icon { display: none; }
+    .callout-title-inner {
+      white-space: normal;
+      overflow-wrap: break-word;
+    }
+  }
+
+  .callout-content {
+    margin: 0;
+    padding: 0;
+
+    p { margin: 0; }
+
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+  }
+}
+
 // Links internos cuja página ainda não existe — marca visual discreta
 // (a classe `broken` vem do plugin BrokenLinks, aplicada após CrawlLinks)
 a.internal.broken {
@@ -60,7 +127,7 @@ a.internal.broken {
 
 .infobox {
   float: right;
-  width: 18rem;
+  width: 20rem;
   max-width: 90vw;
   margin: 0 0 1rem 1.5rem;
   padding: 0;

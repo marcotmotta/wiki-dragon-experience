@@ -43,9 +43,10 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.GraphCustom({
-      localGraph: { showUnresolved: true },
+      localGraph: { showUnresolved: true, showTags: false },
       globalGraph: {
         showUnresolved: true,
+        showTags: false,
         repelForce: 2.0,    // 0.5 default → dobra a repulsão global
         linkDistance: 30,   // 30 default → aumenta a órbita dos phantoms
       },

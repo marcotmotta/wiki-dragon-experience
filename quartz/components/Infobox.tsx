@@ -64,6 +64,65 @@ const SCHEMAS: Record<string, Schema> = {
     { source: "capítulo_anterior", label: "Anterior" },
     { source: "próximo_capítulo", label: "Próximo" },
   ],
+  // Lugares — união de campos dos 3 templates (Cidade, Reino, Estabelecimento)
+  // mais o nosso `categoria` derivado do campo `tipo` dos templates.
+  lugar: [
+    { source: "categoria", label: "Tipo" },
+    { source: "classificação", label: "Classificação" },
+    { source: "também_conhecido_como", label: "Também Conhecido Como" },
+    { source: "também_conhecida_como", label: "Também Conhecida Como" },
+    { source: "continente", label: "Continente" },
+    { source: "região", label: "Região" },
+    { source: "reino", label: "Reino" },
+    { source: "capital", label: "Capital" },
+    { source: "cidade", label: "Cidade" },
+    { source: "distrito", label: "Distrito" },
+    { source: "regente", label: "Regente" },
+    { source: "política", label: "Coalizão" },
+    { source: "coalizão", label: "Coalizão" },
+    { source: "organizações", label: "Organizações" },
+    { source: "ocupantes", label: "Ocupantes" },
+  ],
+  mundo: [
+    { source: "capital", label: "Capital" },
+    { source: "plano", label: "Plano" },
+    { source: "continentes", label: "Continentes" },
+    { source: "eras", label: "Eras" },
+    { source: "ano", label: "Ano" },
+  ],
+  grupo: [
+    { source: "categoria", label: "Tipo" },
+    { source: "nome", label: "Nome" },
+    { source: "também_conhecido_como", label: "Também Conhecido Como" },
+    { source: "líder", label: "Líder" },
+    { source: "lugares", label: "Lugares" },
+    { source: "atuação", label: "Atuação" },
+    { source: "conexões", label: "Conexões" },
+    { source: "visto_pela_primeira_vez", label: "Visto Pela Primeira Vez" },
+    { source: "situação", label: "Situação" },
+  ],
+  item: [
+    { source: "nome", label: "Nome" },
+    { source: "categoria", label: "Tipo" },
+    { source: "raridade", label: "Raridade" },
+  ],
+  magia: [
+    { source: "nome", label: "Nome" },
+    { source: "nível", label: "Nível" },
+    { source: "escola", label: "Escola" },
+    { source: "classes", label: "Classes" },
+    { source: "tempo_de_conjuração", label: "Tempo de Conjuração" },
+    { source: "alcance", label: "Alcance" },
+    { source: "componentes", label: "Componentes" },
+    { source: "duração", label: "Duração" },
+  ],
+  batalha: [
+    { source: "início", label: "Início" },
+    { source: "término", label: "Término" },
+    { source: "local", label: "Local" },
+    { source: "resultado", label: "Resultado" },
+    { source: "principais_confrontos", label: "Principais Confrontos" },
+  ],
 }
 
 const WIKILINK_RE = /\[\[([^\[\]|]+)(?:\|([^\[\]]+))?\]\]/g
@@ -76,12 +135,16 @@ function renderValue(
   value: unknown,
   currentSlug: FullSlug,
   allFiles: QuartzPluginData[],
+  annotations?: string[],
 ): (string | JSX.Element)[] {
   if (Array.isArray(value)) {
     const out: (string | JSX.Element)[] = []
     value.forEach((v, i) => {
       if (i > 0) out.push(<br />)
       out.push(...renderValue(v, currentSlug, allFiles))
+      // Anexa anotação paralela (ex: "(membro)") se existir pro mesmo índice
+      const ann = annotations?.[i]
+      if (ann) out.push(` (${ann})`)
     })
     return out
   }
@@ -142,15 +205,25 @@ const Infobox: QuartzComponent = ({ fileData, allFiles, displayClass }: QuartzCo
 
   const title = (fm.title ?? fm.titulo ?? fm.nome) as string | undefined
   const rows = schema
-    .map((field) => ({ field, value: fm[field.source] }))
+    .map((field) => ({
+      field,
+      value: fm[field.source],
+      // Campo paralelo de anotações (ex: `conexões_anotacoes`) gerado pelo
+      // converter quando o Fandom tinha "[[X]] (anotação)" em listas.
+      annotations: fm[`${field.source}_anotacoes`] as string[] | undefined,
+    }))
     .filter(({ value }) => value !== undefined && value !== null && value !== "")
 
   if (rows.length === 0) return null
 
   const image = fm.image as string | undefined
   const imageCaption = fm.image_caption as string | undefined
-  const imageSrc = image
-    ? resolveRelative(fileData.slug!, `attachments/${image}` as FullSlug)
+  // Quartz slugifica nomes de assets (espaços viram hífen) ao copiar pra public/.
+  // Precisamos replicar isso aqui porque o <img> emitido pelo componente não
+  // passa pelo CrawlLinks (que reescreveria o src de <img> no body).
+  const imageSlugified = image ? image.replace(/ /g, "-") : null
+  const imageSrc = imageSlugified
+    ? resolveRelative(fileData.slug!, `attachments/${imageSlugified}` as FullSlug)
     : null
 
   return (
@@ -167,10 +240,10 @@ const Infobox: QuartzComponent = ({ fileData, allFiles, displayClass }: QuartzCo
       )}
       <table>
         <tbody>
-          {rows.map(({ field, value }) => (
+          {rows.map(({ field, value, annotations }) => (
             <tr>
               <th scope="row">{field.label}</th>
-              <td>{renderValue(value, fileData.slug!, allFiles)}</td>
+              <td>{renderValue(value, fileData.slug!, allFiles, annotations)}</td>
             </tr>
           ))}
         </tbody>

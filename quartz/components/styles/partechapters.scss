@@ -1,0 +1,61 @@
+@use "../../styles/variables.scss" as *;
+
+.parte-chapters {
+  margin: 2rem 0;
+
+  & > h2 {
+    margin: 0 0 0.75rem 0;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9em;
+    border: 1px solid var(--lightgray);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  th, td {
+    padding: 0.5rem 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid var(--lightgray);
+    vertical-align: top;
+  }
+
+  thead th {
+    background: var(--light);
+    color: var(--darkgray);
+    font-weight: 600;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+
+  tbody tr:last-child th,
+  tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  tbody tr:hover {
+    background: var(--highlight);
+  }
+
+  td:first-child, td:nth-child(2) {
+    white-space: nowrap;
+    color: var(--darkgray);
+    font-family: var(--codeFont, monospace);
+    font-size: 0.9em;
+  }
+
+  a.internal {
+    color: var(--secondary);
+    text-decoration: none;
+    &:hover { text-decoration: underline; }
+  }
+
+  @media all and #{$mobile} {
+    table { font-size: 0.85em; }
+    th, td { padding: 0.4rem 0.5rem; }
+  }
+}
