@@ -17,3 +17,11 @@ content/.obsidian/cache
 # Artefatos locais da migração (reproduzíveis a partir de dump.xml)
 migracao-wiki/demo-raw/
 migracao-wiki/dump.xml.bak-*
+
+# Credenciais — nunca comitar
+.env
+**/.env
+
+# Cache do Python
+__pycache__/
+*.pyc
