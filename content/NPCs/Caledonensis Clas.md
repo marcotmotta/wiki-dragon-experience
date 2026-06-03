@@ -12,14 +12,19 @@ classe: Mago (Escola de Conjuração)
 tendência: Caótico e Bondoso
 idiomas: "Arcanis, Comum, Dracônico, Élfico"
 lugares: "[[Lorelheim (Capital)]]"
-conexões: "[[Nero Vend'ruckhem]]"
+conexões:
+  - "[[Nero Vend'ruckhem]]"
+  - "[[Colégio Hovengrad]]"
+conexões_anotacoes:
+  - aliado
+  - ex-membro
 visto_pela_primeira_vez: "[[1x19]]"
 condição: Vivo
 image_caption: Primeira forma de Caledonensis apresentada aos integrantes da Mão.
 nível: ≥ 9
 ---
 
-[[Caledonensis Clas]] é um mago que reside e trabalha no Distrito Arcano de [[Lorelheim (Capital)]]. Ele é um amigo próximo de [[Nero Vend'ruckhem]] e ajudou [[A Mão]] durante sua investigação sobre os [[Soldados da Noite]].
+[[Caledonensis Clas]] é um mago que reside e trabalha no Distrito Arcano de [[Lorelheim (Capital)]]. Ele é ex-membro do [[Colégio Hovengrad]] e amigo próximo de [[Nero Vend'ruckhem]] e ajudou [[A Mão]] durante sua investigação sobre os [[Soldados da Noite]].
 
 ## Descrição
 

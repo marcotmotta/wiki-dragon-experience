@@ -10,7 +10,10 @@ tags:
 image: callahad-timeskip.png
 jogador: Iago
 nome: Callahad Nataniel
-nascimento: "1023 DR, 26 anos"
+nascimento:
+  - 1023 DR
+  - 24 anos (pré timeskip)
+  - 26 anos (pós tiemskip)
 criatura: Humanoide
 raça: Meio-Elfo
 classe:
@@ -61,6 +64,11 @@ Callahad é uma pessoa astuta, esperta e curiosa. Ele busca sempre compreender a
 *"Não se sabe para onde [[Rodwen]] e [[Saad]] haviam fugido, mas sabe-se que encontrando o artífice que a construiu, ele poderia reformá-la e saber mais sobre o paradeiro de seus pais. Callahad então saiu em viagem, em busca de seus pais e do artífice que poderá ter mais informações para unir novamente sua família."*
 
 ## Informações
+
+### Itens Notáveis
+
+* <s>[[Korimarek]]</s> (devolvido à [[Coridravàl]])
+* Aspecto de [[Korimarek]] - presente de [[Coridravàl]] concedido à Calahad após a liberação do dragão.
 
 ### Habilidades
 

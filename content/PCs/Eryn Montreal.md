@@ -23,7 +23,7 @@ conexões:
 conexões_anotacoes:
   - membro
   - patrono
-image: Eryn.jpg
+image: Eryn_new.png
 nascimento: "~1022 DR, 20 anos"
 lugares: "[[Vale da Lua]]"
 ---
@@ -33,7 +33,7 @@ lugares: "[[Vale da Lua]]"
 ## Descrição
 
 ### Aparência
-Poucos são aqueles que podem descrever as feições de Eryn com perfeição. A bruxa anda sempre com seu capuz escuro sobre a cabeça e com uma capa cobrindo quase todo seu corpo. Ela possui cabelos longos e claros e usa roupas de couro leve ideais para exploração.
+Poucos conseguem descrever as feições de Eryn com perfeição. A bruxa anda sempre com seu capuz escuro e azulado sobre a cabeça, que se extende numa capa cobrindo quase todo seu corpo. Ela possui cabelos longos e claros e usa roupas de couro leve, ideais para exploração. Ela carrega consigo uma bolsa de componentes mágicos, que sempre usa para guardar itens preciosos e conjurar suas magias.
 
 ### Personalidade
 Eryn é dona de uma personalidade cautelosa e enigmática. Ela já provou ser bem sensata em suas tomadas de decisões e busca sempre a solução mais lógica para as situações.

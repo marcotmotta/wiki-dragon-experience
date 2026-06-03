@@ -5,7 +5,7 @@ tags:
   - Elfo
   - NPC
   - Antagonistas
-image: fafnir.png
+image: Lord-fafnir.png
 nome: Fafnir Eluin
 título: Lord de Eluin
 criatura: Humanoide

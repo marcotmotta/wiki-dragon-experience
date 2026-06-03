@@ -14,16 +14,16 @@ conexões:
   - "[[Caravana de Edmund]]"
   - "[[The Greater Goods]]"
 conexões_anotacoes:
-  - líder
+  - dono
   - dono
 profissão: "Mercador, Comerciante"
 visto_pela_primeira_vez: "[[1x1]]"
 condição: Vivo
-image: Screenshot 2.png
+image: Edmund_new.png
 lugares: "[[Lorelheim (Capital)]]"
 família:
   - "[[Lyra Rundovar]]"
-  - "[[Nissa Rundovar]]"
+  - "[[Nissandra Rundovar]]"
 família_anotacoes:
   - esposa
   - filha
@@ -40,9 +40,6 @@ Edmund é um homem adulto, com cabelos curtos e loiros com um corte em formato *
 Edmund apresenta constantemente um comportamento sarcástico e debochado. Mesmo com acontecimentos ruins que claramente o prejudicam, ele sempre mantém a postura e o ar de falsa tolerância. Dialogar com Edmund é sempre uma tarefa difícil dado que seu pavio é muito curto e, para ele, sua opinião é sempre a mais valiosa.
 
 ## História
-
-> [!figure|left] 
-> ![[Screenshot 1.png|174]]
 
 ### Passado
 Edmund Rundovar trabalha no ramo de Caravanas há muitos anos. Foi durante uma de suas viagens que ele conheceu sua esposa, [[Lyra Rundovar|Lyra]]. Os dois se casaram algum tempo depois de se conhecerem e, por causa disso, Edmund diminuiu consideravelmente o número de viagens que fazia. Para continuar trabalhando, ele fundou uma loja em [[Lorelheim (Capital)|Lorelheim]], onde ele e a esposa passaram a trabalhar. Aproximadamente 2 anos depois, o casal teve uma filha, que recebeu o nome de [[Nissandra Rundovar]], ou Nissa, como foi carinhosamente apelidada.

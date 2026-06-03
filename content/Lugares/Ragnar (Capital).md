@@ -22,21 +22,22 @@ Subterrâneo
 
 ### Superfície
 
-#### Torre de Marakmazar
+#### [[Torre de Marakmazar]]
 Lar e estabelecimento do mago [[Marakmazar]]. Também possui uma biblioteca no primeiro andar, disponível para visitas e administrada por [[Malum]]
 
 #### Os Bolinhos
 Confeitaria administrada por [[Wanda]].
 
-### Subterrâneo
+### Subterrâneo ([[Os Túneis]])
 
-#### A Passagem
+#### [[A Passagem]]
 Taverna localizada em uma das praças subterrâneas dos [[Os Túneis|Túneis]]. Era a fachada de uma das bases de operações da guilda [[Os Fantasmas]].
 
 ## Habitantes Conhecidos
 
 ### Superfície
 * [[Dorin]]
+* [[Leonard]]
 * [[Malum]]
 * [[Marakmazar]]
 * [[Wanda]]

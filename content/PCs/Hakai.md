@@ -20,7 +20,7 @@ conexões:
 conexões_anotacoes:
   - ex-membro
   - devoto
-image: Hakai.jpg
+image: Hakai_new.png
 lugares: "[[Reino de Veldland]]"
 família: "[[Stephen Sianodel]]"
 nascimento: 1016 DR

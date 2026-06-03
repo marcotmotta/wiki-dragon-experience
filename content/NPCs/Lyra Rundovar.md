@@ -7,7 +7,7 @@ tags:
   - Morto-vivo
   - Mago
   - Antagonistas
-image: Lyra.jpg
+image: Lyra_rundovar.png
 nome: Lyra Rundovar
 criatura: Morto-vivo
 raça: Humana
@@ -16,7 +16,7 @@ tendência: Neutra e Maligna
 idiomas: Comum
 família:
   - "[[Edmund Rundovar]]"
-  - "[[Nissa Rundovar]]"
+  - "[[Nissandra Rundovar]]"
 família_anotacoes:
   - ex-marido
   - filha
@@ -32,12 +32,20 @@ morte:
 * Flechada na cabeça por [[Ielenia Liadon]]"
 ---
 
-[[Lyra Rundovar]] foi a esposa de [[Edmund Rundovar]] que desapareceu após uma das viagens do comerciante. Foi descoberto depois que ela havia se matado e se transformado em um morto-vivo.
+[[Lyra Rundovar]] foi uma humana, esposa de [[Edmund Rundovar]], que desapareceu após uma das viagens do mercador. Foi descoberto depois que ela havia se matado e se transformado em um morto-vivo.
 
 ## Descrição
 
 ### Aparência
-Não se sabe como Lyra era quando viva. Após sua morte, entretanto, seu corpo se decompôs ao ponto de seus ossos ficarem totalmente à mostra. Mesmo assim, ela ainda usa roupas longas e azuladas que cobrem a maior parte de seu corpo, com exceção apenas do tórax e da cabeça.
+Lyra é uma morta-viva de presença fria e melancólica, com pele pálida marcada por discretos traços esqueléticos nas mãos e no rosto, como se a morte ainda habitasse sob sua carne. Seus cabelos pretos caem até os ombros em fios desalinhados, contrastando com as vestes simples em tons de azul escuro, preto e vermelho gasto. Sempre carregando um grimório antigo e pesado junto ao peito, Lyra caminha entre sombras e ossos reanimados com uma expressão distante e silenciosa, envolta pela atmosfera sombria de uma magia antiga e contida.
+
+## História
+
+### Passado
+Lyra era a esposa de Edmund Rundovar, e vivia com o marido e a filha, Nissandra Rundovar, de 5 anos, na cidade de Lorelheim. Em meio a tempos difíceis, Edmund recebeu uma proposta de liderar uma caravana pelo Reino de Lorelheim, e apesar de não achar correto abandonar sua família, foi incentivado por sua esposa para aceitar o trabalho. Não se sabe o que ocorreu durante o ano de ausência de Edmund, mas quando o mercador retornou, Lyra e Nissandra haviam desaparecido, e apenas uma caixa misteriosa com uma mensagem mágica havia sido deixada para ele.
+
+### [[Parte 1: Adentrando a Escuridão]]
+Lyra revela para [[A Mão]] que, na ausência de [[Edmund Rundovar|Edmund]], ela foi a responsável por tirar sua própria vida em prol de sua filha. Apesar de não poder mais viver ao lado de seu marido, ela manteve com ele seu bem mais precioso, pois sabia que nenhuma pessoa no mundo seria capaz de proteger tal item de maneira tão sentimental.
 
 ## Informações
 

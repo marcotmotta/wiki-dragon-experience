@@ -17,6 +17,8 @@ image: dalimar.png
 ### Ponte de Dalimar
 Ponte localizada nos arredores da cidade, que atravessa o [[Rio Pálido]] e conecta diretamente a estrada para a capital de [[Fontenova (Capital)|Fontenova]].
 
+### Taverna Olho de Cobra
+
 ### Taverna Olho de Peixe
 > [!info] Artigo principal
 > [[Olho de Peixe]]

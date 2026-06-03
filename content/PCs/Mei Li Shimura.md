@@ -7,7 +7,7 @@ tags:
   - PC
   - Ladino
   - Humano
-image: Mei li.jpg
+image: meili.png
 jogador: Jojo
 nome: Mei Li Shimura
 criatura: Humanoide
@@ -25,9 +25,6 @@ lugares: "[[Reino de Kradon]]"
 [[Mei Li]] é uma humana ladina. Ela foi criada e é controlada pela jogadora Jojo.
 
 ## Descrição
-
-> [!figure|left] Mei Li em suas roupas comuns.
-> ![[Mei li 2.jpg|263]]
 
 ### Aparência
 Quando está em missão Mei Li usa roupas muito diferentes de seus kimonos habituais. Ela está sempre sob vestes escuras e carrega todo o equipamento que precisa para realizar suas tarefas, como adagas, facas e seus kits de ladinagem e espionagem. Ela possuía um chapéu que acabou perdendo e tem como um de seus objetivos conseguir um novo.

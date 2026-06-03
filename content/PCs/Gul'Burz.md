@@ -2,8 +2,8 @@
 tipo: PC
 title: "Gul'Burz"
 aliases:
-  - "Gûl'Burz"
   - Gul
+  - "Gûl'Burz"
   - Gûl
 tags:
   - Meio-Orc
@@ -19,7 +19,7 @@ tendência: Caótico e Neutro
 idiomas: "Comum, Orc, Gigante"
 visto_pela_primeira_vez: "[[1x10]]"
 nível: 5
-image: Gulburz copy.png
+image: Gul_new.png
 conexões:
   - "[[A Mão]]"
   - "[[Uruk'Zagh]]"
@@ -48,6 +48,9 @@ Gul'Burz é um meio-orc alto e forte, com cabelos negros e longos. Ele não vest
 ### Personalidade
 Forte e resistente, Gul'Burz está sempre disposto a lutar por sua vida mesmo que o perigo seja iminente. Apesar disso, ele busca entender as circunstâncias dos campo de batalha em que luta e tenta reagir de forma estratégica sempre que possível.
 
+> [!figure|left] Gul'Burz carregando suas armas de combate.
+> ![[Gulburz copy.png|258]]
+
 Como lembrança de suas batalhas, o bárbaro marca a própria pele com símbolos que representam os inimigos derrotados em combate, carregando consigo a memória de suas vitórias.
 
 Gul'Burz era impulsivo e incontrolável quando mais novo e, com o tempo, aprendeu a canalizar sua fúria interior para seu próprio benefício, sendo capaz de feitos incríveis e grande resistência quando libera sua raiva durante a batalha ou fora dela.
@@ -71,9 +74,9 @@ O meio-orc consegue ser criativo quando necessário, aprendendo com seus erros. 
 
 *Em um acesso de fúria jamais visto Gûl'Burz atacou [[Snag'Ghâsh]] com o machado de seu pai, Durb'Burzum, mas não foi forte o suficiente para derrotá-lo. Aqueles que queriam a paz na tribo acompanharam [[Gûl'Burz]] na batalha, em vão. Essa transgressão trouxe consigo o exílio de muitos da tribo que, eventualmente, se separaram, mas não abandonariam sua origem tão facilmente. Gûl'Burz parte então em uma jornada com o objetivo de se tornar mais forte, viajando de floresta e floresta, batalha e batalha, para que um dia seja capaz de voltar e derrotar aquele que matou seu pai e, ainda, leva a tribo [[Uruk'Zagh]] para um lento fim."*
 
-A tribo [[Uruk'Zagh]] segue uma tradição e ensinamentos de uma entidade pouco conhecida chamada [[Svarog]] que concede parte de sua força para aqueles que são dignos de serem grandes líderes e que exaltem sua força e presença no mundo.
+A tribo [[Uruk'Zagh]] segue uma tradição e ensinamentos de uma entidade pouco conhecida que concede parte de sua força para aqueles que são dignos de serem grandes líderes e que exaltem sua força e presença no mundo.
 
-Muitos na tribo acreditam que [[Gûl'Matûrz]] recebeu algum tipo de ajuda de [[Svarog]] e que de alguma forma o passou para seu machado, que ele próprio forjou, e para seu próprio filho, [[Gûl'Burz]] mas, apesar disso, ninguém sabe se esse fato é realmente verídico.
+Muitos na tribo acreditam que [[Gûl'Matûrz]] recebeu algum tipo de ajuda divina, e que de alguma forma a passou para seu machado, que ele próprio forjou, e para seu próprio filho, [[Gûl'Burz]], mas apesar disso, ninguém sabe se esse fato é realmente verídico.
 
 ### Pré-Jogo
 Após os acontecimentos relacionados à sua tribo, Gul'Burz iniciou uma vida errante e solitária. Quatro anos depois, durante sua mais recente viagem, o bárbaro foi encurralado por esqueletos próximo à entrada de uma caverna, forçando-o a adentrar por seus túneis escuros.

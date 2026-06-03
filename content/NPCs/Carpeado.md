@@ -4,7 +4,7 @@ title: Carpeado
 tags:
   - NPC
   - Cervo
-image: C1cb17db7f29de3c599b163079ccf89c.jpg
+image: Carpeado.png
 nome: Carpeado
 conhecido_como: Roach (élfico)
 criatura: Animal
@@ -14,6 +14,7 @@ conexões: "[[Daniel]]"
 visto_pela_primeira_vez: "[[1x3]]"
 condição: Vivo
 lugares: "[[Reino de Leafheart]]"
+image_caption: "Desenho de Carpeado, feito por Ramon."
 ---
 
 [[Carpeado]] é um cervo exótico de tonalidade branca azulada. Ele foi achado por [[Daniel]] e seus companheiros no bosque ao sul da [[Vila do Dente Quebrado]] e acompanha o paladino desde então.

@@ -18,8 +18,9 @@ cidade: "[[Dalimar]]"
 
 ## Características
 
-### Especialidade
-A especialidade da casa é um ensopado de peixe, receita ocidental tradicional aprendida por [[Ódel]] anos atrás.
+### Menu
+
+* **Ensopado de Peixe**: A especialidade da casa, receita ocidental tradicional aprendida por [[Ódel]] anos atrás.
 
 ### Concorrência
 O estabelecimento possui uma forte concorrência com a taverna [[Olho de Cobra]], também localizada em [[Dalimar]].

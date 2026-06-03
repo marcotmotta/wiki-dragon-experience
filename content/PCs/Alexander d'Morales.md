@@ -35,7 +35,16 @@ inimigos: "[[Ordem do Consenso]]"
 ## Descrição
 
 ### Aparência
-Alexander possui pele clara, olhos castanhos e écareca. Usa uma armdura pesada na forma de cota de malha e uma manopla de ferro, e carrega sempre consigo um escudo com o símbolo do deus [[Torm]]. Tem 1,83m de altura e 90kg.
+Alexander é um homem de presença imponente, seus 1,83 m de altura e 90 kg de musculatura forjada em batalha fazem dele uma figura que ocupa o espaço com autoridade natural. Sua pele clara carrega as marcas sutis do tempo passado sob o sol e o vento, e seus olhos castanhos têm a profundidade calma de quem já viu o caos da guerra e escolheu permanecer de pé.
+
+A cabeça completamente raspada não de descuido, é uma escolha deliberada, quase monástica, que acentua a linha firme do maxilar e confere ao rosto uma austeridade quase esculpida. Não há ornamento nem vaidade; o que há é presença.
+
+Sua armadura é uma cota de malha pesada, cada anel entrelaçado com o peso da devoção. O metal fosco absorve a luz em vez de refleti-la, como se a própria armadura fosse feita para resistir, não para brilhar. Sobre o braço esquerdo repousa sempre o escudo, não um acessório, mas uma extensão de si mesmo, gravado com o símbolo do deus [[Torm]], o Guardião Verdadeiro. O emblema está desgastado nas bordas, prova de que aquele escudo já foi usado para defender, não apenas para ostentar fé.
+
+Na mão direita, a manopla de ferro aperta e solta com o ritmo de quem está sempre pronto. É pesada, funcional, sem enfeite algum, mas quem a recebe em combate dificilmente esquece o impacto.
+
+### Personalidade
+Alexander não é o tipo de homem que intimida pelo grito. É o tipo que paralisa pelo silêncio.
 
 ## História
 
@@ -48,13 +57,23 @@ Alexander possui pele clara, olhos castanhos e écareca. Usa uma armdura pesada 
 *A presença do grupo, que Alexander passou a chamar mentalmente de "Os Mutilados", tornou-se uma sombra sobre Brasília. O que começou como estranheza rapidamente se transformou em um desconforto palpável. A terra que administravam, antes um campo aberto na periferia da vila, foi cercada com estacas altas de madeira negra, impedindo a vista de todos. Sons estranhos, metálicos e ritmados, ecoavam de dentro do recinto durante a noite, perturbando o sono pacato dos habitantes. Alexander sentia o peso do dever mais do que nunca. Seus sermões na praça central, que antes falavam de virtudes abstratas, agora se tornavam alertas velados sobre desconfiar de falsos profetas e da corrupção que se esconde atrás de sorrisos polidos. Seus olhos, invariavelmente, encontravam os de Damakus durante essas pregações. O Tiefling sempre assistia de longe, um canto da boca levemente arregaçado em um simulacro de sorriso, como se estivesse ouvindo uma piada particular. Os conflitos se intensificaram. Ghun tornou-se uma praga. As "negociações" com Marcus escalaram para ameaças físicas, deixando o gnomo cada vez mais assustado e relutante em visitar Brasília, o que privava a vila de mercadorias essenciais. Jhasmal, embriagado pela cerveja barata da taverna e por sua própria lábia, começou a espalhar boatos sobre Alexander, sugerindo que o jovem clérigo era, na verdade, um fanático que impedia o "progresso" que o grupo trazia."*
 
 *"Ele estava em um campo de batalha celestial, mas um que havia sido profanado. O chão, que deveria ser de mármore branco, estava rachado e enegrecido. Colunas partidas jaziam como ossos de gigantes. No centro desse caos, envolto em uma luz que era ao mesmo tempo agonizante e gloriosa, estava Torm. O Deus da Coragem mantinha sua forma de guerreiro leonino, seus olhos azuis profundos lançando feixes de luz justa que dissipavam as sombras ao seu redor. Em sua mão, uma espada de pura convicção flamejava, e em seu braço, um escudo com o símbolo da Mão Resoluta parecia inabalável. Ele lutava contra um exército de formas feitas de puro esquecimento e dúvida, sombras com garras que sussurravam heresias. Alexander sentiu um influxo de orgulho. Este era seu deus, o farol inabalável. E então, ele viu. Por trás de Torm, uma figura emergiu das próprias sombras que o deus dissipava. Era uma silhueta de absoluta neutralidade, uma mancha de vácuo na tapeçaria do mundo. Não possuía rosto, forma definida ou emblema. Era apenas a ausência de tudo o que Torm representava: a ausência de lealdade, de verdade, de luz. Não era um inimigo declarado, mas algo infinitamente pior: uma não-coisa, um zero cósmico vestido com as vestes da traição.*
-
 *Torm, em sua luta feroz contra as hordas frontais, confiava plenamente. Ele não virou. Não desconfiou. Ele sabia, com a certeza divina que o definia, que suas costas estavam seguras. Esta figura era seu campeão, seu braço direito, seu mais leal companheiro de incontáveis eras. A figura sombria moveu-se. Não foi um ataque violento, mas um gesto íntimo, quase carinhoso. Como um amigo aproximando-se para sussurrar um segredo. Ela estendeu uma mão que não era uma mão, e tocou o omheiro de Torm. Não houve explosão. Não houve grito de dor. Houve um silêncio. Um silêncio tão profundo que pareceu sugar todo o som do universo. A luz nos olhos de Torm vacilou. A convicção em seu semblante quebrou-se não em raiva, mas em uma perplexidade devastadora, uma dor tão profunda que era mais dolorosa do que qualquer ferida física. Era o olhar de quem, no ápice de sua força, descobre que o próprio alicerce de seu ser era uma mentira. A espada de convicção apagou-se. O escudo da lealdade rachou com um som que ecoou como o fim do mundo. A figura sombria não sorriu, pois não tinha rosto para isso. Ela simplesmente se fundiu novamente com as sombras, deixando para trás a semente da dúvida.*
 
 *Alexander acordou de repente, um grito preso em sua garganta, o suor frio encharcando sua roupa de dormir. Seu peito doía com um eco daquela dor divina. O quarto estava escuro e silencioso, mas o sentimento de traição, absoluto e profano, permanecia no ar, tão real quanto o aroma de terra queimada que ele jurava ainda sentir."*
 
+> [!figure|left] Alexander realizando o Juramento da Vingança.
+> ![[Alexander-juramento.png|323]]
+
+### [[Parte 10: Cerco Sob Pedra]]
+Após deixar a pacata vila de [[Brasília]], Alexander firmou um acordo com [[Fuhan]] e fez parte de uma longa viagem até [[Dalimar]]. Ele acompanhou os viajantes [[Sindeval]] e [[Gáven]] na jornada, além dos aventureiros [[Calrus Ventoalto]], [[Celeste Fornocobre]], [[Corinne]], [[Kacz Virafolha]] e [[Pyotr Lvov Orloff]], que futuramente formariam o grupo [[STF]].
+
+Na cidade eles se depararam com o problema da ponte sobre o [[Rio Pálido]], e foram contratados por [[Tartur]] e a guarda da cidade para investigar e resolver a situação, culminando numa serie de eventos e o intenso confronto com [[Gorkon]] e sua gangue de goblinóides.
+
 ### [[3x9]]
-Alexander, após os eventos que se desdobraram com sua chegada em [[Dalimar]] junto aos outros integrantes do [[STF]], realizou um juramento divino em nome de seu deus, [[Torm]], prometendo seguir seus dogmas e propagar sua palavra.
+
+Em dado momento, tomado por uma sensação difícil de explicar, Alexander se afasta. Há algo no ar, uma presença, um chamado. Sozinho, sob o silêncio da noite e a vigilância das estrelas, ele reconhece que chegou a hora.
+
+Diante do invisível, mas profundamente sentido, Alexander formaliza sua devoção a [[Torm]]. Não apenas em palavras, mas em propósito. Ele faz um juramento — um compromisso inabalável de lutar contra aqueles que trouxeram dor ao seu povo e marcaram seu passado.
 
 > [!quote]
 > Pela terra que me viu nascer, pelas mãos calejadas que um dia cultivaram a paz, e pela fé que ardeu em meu peito como chama sagrada…

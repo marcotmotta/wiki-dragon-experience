@@ -3,25 +3,14 @@ tipo: NPC
 title: Asmodeus
 tags:
   - Deuses
-  - Divindades-da-Guerra-da-Alvorada
-  - Esboços
-image: 03fcf628e3d784dc4d47281c1a6377fd.png
-image_caption: Símbolo de Asmodeus
 nome: Asmodeus
-título: Deus da Tirania
+título: Deus da Tirania e do Pecado
 classe: Divindade
-classificação: Divindade Maior/Divindade Menor
 tendência: Leal e Maligno
-domínios_sugeridos: Enganação
-plano: Nove Infernos
-arma_sagrada: Cajado Rubi
-condição: Ativo
-raça: Diabo
+domínios_sugeridos: "Conhecimento, Ordem, Enganação"
+image_caption: Símbolo de Asmodeus
+criatura: Diabo
+lugares: "[[Nove Infernos]]"
 ---
 
-{{Esboço}}
-
-## Características
-
-> [!figure|left] Avatar mais comum de Asmodeus.
-> ![[Asmodeus 3e.png|286]]
+[[Asmodeus]] é o Lord de Nessus, a nona camada dos [[Nove Infernos]], governante de todos os diabos e o deus da tirania e do pecado.

@@ -15,8 +15,3 @@ image: nissa_bg.png
 ---
 
 [[Nissa Alluren]] é uma elfa de [[Reino de Lenoir|Lenoir]]. Ela é a atual dona na taverna [[Porco Selvagem]], localizada numa pacata encruzilhada entre as cidades de [[Vinlard]] e [[Eluin]].
-
-## Aparência
-
-> [!figure|left] 
-> ![[Nissa.png|250]]

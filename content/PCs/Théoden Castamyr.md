@@ -5,10 +5,13 @@ tags:
   - PC
   - Humano
   - Bruxo
-image: theoden.png
+image: Theoden_new.png
 jogador: Ramon
 nome: Théoden Castamyr
-nascimento: "1031 DR, 16 anos"
+nascimento:
+  - 1031 DR
+  - 16 anos (pré timeskip)
+  - 18 anos (pós timeskip)
 criatura: Humanoide
 raça: Humano
 classe: Bruxo (Lâmina Maldita / Pacto da Lâmina)
@@ -30,6 +33,8 @@ lugares: "[[Reino de Kradon]]"
 ## Descrição
 
 ### Aparência
+
+#### Pré timeskip
 Théoden é um jovem de 16 anos, de baixa estatura e voz fina. Quando desperta seus poderes, sua voz muda de entonação e seus olhos emanam uma energia escura, assim como a aura que passa a cobrir seu corpo.
 
 ## História
@@ -56,3 +61,18 @@ Théoden teve uma visão de seu patrono, que finalmente revelou sua identidade:
 > Eu sou aquela que não tem nome. Uma alma esquecida que vive apenas nos fragmentos do que um dia foram lembranças. Guiando os espíritos perdidos por entre o reino das sombras, guardando as memórias de seus últimos momentos, não para os outros, mas para que eu me lembre de cada um deles. Os que se importam me veem como rainha, e me chamam como tal. A Rainha Corvo. Da morte, do destino, e do frio do inverno.
 > 
 > — [[Raven Queen]], para [[Théoden Castamyr]]
+
+## Informações
+
+### Itens Notáveis
+
+* Adaga de Obsidiana - Adquirida após pacto com a [[Rainha Corvo]].
+
+### Habilidades
+
+* Patrono Transcendental - Lâmina Maldita ([[Raven Queen]])
+* Pacto da Lâmina
+
+### Magias de Bruxo
+
+* Rajada Mística

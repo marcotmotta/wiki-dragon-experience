@@ -5,7 +5,7 @@ tags:
   - PC
   - Anão
   - Guerreiro
-image: marlin.png
+image: Marlin_new.png
 jogador: Marco
 nome: Marlin Kebac
 criatura: Humanoide
@@ -78,6 +78,10 @@ Amigo que trabalhava nas minas, seguiu trabalhando lá depois da saída de Marlo
 Amigo do exército que foi padrinho do casamento de Marlon. Seguiu carreira militar e Marlon nunca mais teve notícias dele depois que partiu de Ferromir.
 
 ## Informações
+
+### Itens Notáveis
+
+* Vingadora Sagrada - Criada na Forja da Alma a partir de âmbar místico, em [[Ferromir (Capital)]], por [[Halhard]] e Marlin Kebac.
 
 ### Habilidades
 

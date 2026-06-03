@@ -25,17 +25,26 @@ regente: "< 1043 DR
 Escavada nas profundezas da terra sob o pico de uma grande montanha, **Ferromir** é uma cidade anã onde o brilho da [[Forja da Alma]] nunca cessa. Martelos moldam metal incandescente, criando armas que rivalizam com qualquer obra dos elfos de [[Lenoir (Capital)|Lenoir]]. Galerias e minas subterrâneas guardam segredos ancestrais e tradições forjadas em séculos de habilidade e dedicação. Ferromir não é apenas um centro de mineração e artesanato: é o coração pulsante do poder anão, onde cada lâmina, armadura e estrutura carrega a marca da maestria de seus habitantes.
 
 ## Distritos
+Ferromir é uma cidade vertical, localizada sob uma grande montanha. Seus distritos são organizados da seguinte maneira, do mais alto ao mais baixo:
 
-### Distrito de Ferro
-
-### Distrito Militar
-
-### Distrito de Mineração
+### Sala do Trono
 
 ### Grande Hall
 
 * **Caneco Sortudo**: Taverna
-* **Catedral da Chama**: Catedral dedicada ao deus [[Moradin]], comandada por [[Larenia]].
+* **[[Catedral da Chama]]**: Catedral dedicada ao deus [[Moradin]], comandada por [[Larenia]].
+
+### Distrito Militar
+
+### Distrito de Ferro
+
+### Subúrbios
+
+### Salões Baixos
+
+* **Último Suspiro**: Taverna frequentada pelos membros da revolta de [[Deremir]]. Administrada por [[Brovak]].
+
+### Distrito de Mineração
 
 ### Minas
 
@@ -43,12 +52,6 @@ Escavada nas profundezas da terra sob o pico de uma grande montanha, **Ferromir*
 * **2ª Camada**
 * **Camadas Inferiores**
 ** Passagem para o Underdark
-
-### Salões Baixos
-
-* **Último Suspiro**: Taverna frequentada pelos membros da revolta de [[Deremir]]. Administrada por [[Brovak]].
-
-### Subúrbios
 
 ## Habitantes Conhecidos
 

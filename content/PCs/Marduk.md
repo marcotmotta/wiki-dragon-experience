@@ -18,7 +18,7 @@ nível: 3
 visto_pela_primeira_vez: "[[1x2]]"
 conexões:
   - "[[A Mão]]"
-  - "{{Icon Tiamat Symbol}} [[Tiamat]]"
+  - "[[Tiamat]]"
 conexões_anotacoes:
   - ex-membro
   - devoto

@@ -14,7 +14,7 @@ tendência: Caótico e Neutro
 idiomas: "Comum, Élfico, Silvestre"
 nível: 5
 visto_pela_primeira_vez: "[[1x2]]"
-image: Roran.jpg
+image: Roran_new.png
 image_caption: Desenho de Roran feito por Ramon.
 família:
   - "[[Thomas Haleth]]"
@@ -31,8 +31,8 @@ nascimento: "1016 DR, 26 anos"
 
 ## Descrição
 
-> [!figure|left] Arte Conceitual de Roran feita por Ramon.
-> ![[IMG-20190327-WA0002~2.jpg|224]]
+> [!figure|left] Arte oficial de Roran, feita por Ramon.
+> ![[Roran.jpg|237]]
 
 ### Aparência
 Roran vem de uma cultura humilde. Suas roupas são simples e seu visual despojado, contrastando suas habilidades artísticas musicais. Com cabelos e barba curtos, o bardo não costuma chamar atenção, até o momento em que começa a tocar seus instrumentos.
@@ -54,6 +54,9 @@ Roran viveu toda a vida com o pai humano e não conheceu sua mãe. Hoje, com 26 
 
 ### Pré-jogo
 Após sair de casa, Roran decidiu explorar o mundo a fim de descobrir o que ele tem a oferecer. Em seu caminho pelo [[Bosque do Retorno]], Roran teve a infelicidade de encontrar um grupo de goblins que o capturaram por estarem em maior número, mantendo-o preso em seu covil juntamente com o também viajante [[Marduk]].
+
+> [!figure|left] Primeira arte conceitual de Roran, feita por Ramon.
+> ![[IMG-20190327-WA0002~2.jpg|242]]
 
 ### [[Parte 1: Adentrando a Escuridão]]
 Aproveitando à oportunidade e o momento de necessidade Roran se juntou temporariamente aos sobreviventes da [[Caravana de Edmund]], o que mais tarde o levaria à fazer parte do grupo de aventureiros conhecidos como [[A Mão]].

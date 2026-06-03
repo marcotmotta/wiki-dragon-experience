@@ -18,3 +18,7 @@ O [[Reino de Lenoir]] é caracterizado por ser uma gigantesca e única floresta 
 *[[Lenoir (Capital)]]
 *[[Valindor]]
 *[[Vinlard]]
+
+## Pontos de Interesse
+
+* [[Ashenvar]]
