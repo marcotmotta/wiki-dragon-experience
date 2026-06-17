@@ -17,14 +17,19 @@ lugares: "[[Fontenova (Capital)]]"
 profissão: Cozinheira
 visto_pela_primeira_vez: "[[3x1]]"
 nível: 1
-conexões: "[[STF]]"
+conexões:
+  - "[[STF]]"
+  - "[[Colégio Hovengrad]]"
+conexões_anotacoes:
+  - membro
+  - ex-membro
 nascimento: "1019 DR, 30 anos"
 ---
 
 [[Celeste Fornocobre]] é uma halfling artífice. Ela foi criada e é controlada pela jogadora Luiza.
 
 ## Descrição
-Celeste possui pele morena, olhos amareloados e cabelo castanho claro, que mantém amarrado. Ela usa roupas de viajem e está sempre em posse de seus diversos utensílios culinários. Além disso, possui uma marca característica em um de seus braços. 1,20m de altura e 17kg.
+Celeste possui pele morena, olhos amarelados e cabelo castanho claro, que mantém amarrado. Ela usa roupas de viajem e está sempre em posse de seus diversos utensílios culinários. Além disso, possui uma marca característica em um de seus braços. 1,20m de altura e 17kg.
 
 ## História
 
@@ -36,6 +41,24 @@ Celeste possui pele morena, olhos amareloados e cabelo castanho claro, que mant�
 *Sob o efeito do elixir, esse professor admitiu fazer parte de um plano com uma organização que estava interessada em adquirir um artefato mágico poderoso para fins obscuros. O professor foi aprisionado e o caso foi abafado pela Academia para que eles pudessem investigar e tentar evitar a obtenção do artefato.*
 
 *Como Celeste era a única pessoa fora das autoridades que sabia do caso, eles propuseram que ela fizesse parte do grupo que tentaria encontrar e obter o artefato primeiro. Celeste aceitou e começou a sua busca por indícios de onde esse objeto poderia estar. Porém, o professor sabia que Celeste foi a responsável pelo fiasco da missão, então ele "colocou um alvo" nela e agora ela é caçada pela organização."*
+
+### [[Parte 10: Cerco Sob Pedra]]
+Após deixar sua vida na grande cidade de [[Fontenova (Capital)|Fontenova]], Celeste firmou um acordo com [[Fuhan]] e fez parte de uma longa viagem até [[Dalimar]]. Ela acompanhou os viajantes [[Sindeval]] e [[Gáven]] na jornada, além dos aventureiros [[Alexander d'Morales]], [[Calrus Ventoalto]], [[Corinne]], [[Kacz Virafolha]] e [[Pyotr Lvov Orloff]], que futuramente formariam o grupo [[STF]].
+
+Na cidade eles se depararam com o problema da ponte sobre o [[Rio Pálido]], e foram contratados por [[Tartur]] e a guarda da cidade para investigar e resolver a situação, culminando numa serie de eventos e o intenso confronto com [[Gorkon]] e sua gangue de goblinóides.
+
+Celeste destacou-se durante o plano para lidar com os inimigos na ponte, sendo responsável por manipular o veneno encontrado no [[Pântano Pálido]] e enganar os goblins próximo ao seu covil, possibilitando que os aventureiros saíssem vitoriosos de um grande combate.
+
+## Características
+
+> [!figure|right] Mapa da casa de Celeste.
+> ![[Celeste-casa-1.jpg|229]]
+
+### Fontenova
+Celeste possui uma residência na cidade de [[Fontenova (Capital)]]. Ela mora no distrito conhecido como Vielas de Cobre, próximo ao seu antigo local de trabalho no [[Colégio Hovengrad]].
+
+> [!figure|right] Interior da casa de Celeste.
+> ![[Celeste-casa-2.jpg|231]]
 
 ## Informações
 

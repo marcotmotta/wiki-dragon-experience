@@ -18,12 +18,17 @@ idiomas: "Comum, Infernal"
 visto_pela_primeira_vez: "[[2x1]]"
 nível: 8
 image: aurus-timeskip.png
-nascimento: "1017 DR, 32 anos"
+nascimento:
+  - 1017 DR
+  - 30 anos (pré timeskip)
+  - 32 anos (pós timeskip)
 conexões:
   - "[[Backstreet Boys]]"
+  - "[[Bahamut]]"
   - "[[Mão Amiga]]"
 conexões_anotacoes:
   - membro
+  - devoto
   - ex-membro
 lugares: "[[Devil's Palm]]"
 ---
@@ -32,11 +37,16 @@ lugares: "[[Devil's Palm]]"
 
 ## Descrição
 
-> [!figure|left] Aurus pré time-skip.
+> [!figure|left] Aurus pré timeskip.
 > ![[Aurus.png|200]]
 
 ### Aparência
-Pele roxa, cabelos roxos e olhos negros. 1,89m de altura.
+
+#### Pré timeskip
+Aurus possui pele roxa, cabelos roxos e olhos negros. 1,89m de altura.
+
+#### Pós timeskip
+Após reescrever sua Linhagem Ancestral, Aurus adquiriu uma aparência bem mais madura. Seus cabelos e barba cresceram, assim como seus chifres, e seus olhos escuros passaram a emitir um brilho dourado, enaltecendo sua nova natureza divina.
 
 ### Personalidade
 Tímido, destemido, corajoso e perspicaz.
@@ -52,12 +62,17 @@ Tímido, destemido, corajoso e perspicaz.
 
 ## Informações
 
+### Itens Notáveis
+
+* Cajado do Pássaro Dourado - Relíquia de [[Bahamut]], recuperada no tempo de [[Valhaduhr]]. Presente de [[Coridravàl]] à Aurus Zael.
+
 ### Habilidades
 
 * Tiefling - Linhagem de Glasya
 ** Legado de Malbolge
 *** Ilusão Menor
-* Linhagem Ancestral - Linhagem Dracônica
+* <s>Linhagem Ancestral - Linhagem Dracônica</s> (pré timeskip)
+* Linhagem Ancestral - Alma Divida (pós timeskip)
 
 #### Magias de Feiticeiro
 

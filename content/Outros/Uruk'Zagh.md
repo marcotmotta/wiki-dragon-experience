@@ -1,9 +1,6 @@
 ---
 tipo: grupo
 title: "Uruk'Zagh"
-tags:
-  - Grupos-e-Organizações
-image: "Símbolo dos Uruk'Zagh.png"
 nome: "Uruk\"Zagh"
 também_conhecido_como: Povo do Passo da Montanha
 líder: "[[Snag'Ghâsh]]"

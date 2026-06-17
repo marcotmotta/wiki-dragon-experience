@@ -4,6 +4,7 @@ title: Valina Lettsa
 tags:
   - NPC
   - Humano
+  - Guerreiro
 nome: Valina Lettsa
 criatura: Humanoide
 raça: Humana

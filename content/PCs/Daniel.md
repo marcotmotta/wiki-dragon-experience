@@ -20,7 +20,7 @@ nível: 5
 visto_pela_primeira_vez: "[[1x1]]"
 conexões:
   - "[[A Mão]]"
-  - "{{Icon Bahamut Symbol}} [[Bahamut]]"
+  - "[[Bahamut]]"
   - "[[Carpeado]]"
 conexões_anotacoes:
   - membro
@@ -28,7 +28,7 @@ conexões_anotacoes:
   - domesticado
 lugares: "[[Reino de Kamorath]]"
 inimigos: "[[Cavalaria Negra]]"
-image: Daniel.jpg
+image: Daniel_new.png
 nascimento: "~1012 DR, 30 anos"
 ---
 
@@ -50,9 +50,6 @@ Sempre atento, Daniel procura extrair o melhor daqueles ao seu redor. Buscando p
 Apesar de seu comportamento humilde e calmo Daniel é ocasionalmente dirigido pelas próprias emoções quando situações que remetem problemas de seu passado são trazidas à tona. O juramento de vingança feito por ele através de seu padroeiro [[Bahamut]] é levado veemente à serio quando o paladino está na presença de qualquer maldade ou injustiça que possa de alguma forma prejudicar seus amigos ou pessoas inocentes.
 
 ## História
-
-> [!figure|left] 
-> ![[Daniel2.jpg|235]]
 
 ### Passado
 *"Daniel. Órfão. Não conheceu suas origens, seus pais ou parentes de sangue, sua terra se tornou o chão que pisava, que dormia, que caçava e que sustentava seu corpo na incessante luta pela sobrevivência de cada dia. Desde muito novo, foi acolhido por um grupo de viajantes e aventureiros, eremitas que, tal como ele, sobreviviam e se acolhiam em busca de uma vida melhor. Todos lá se ajudavam como uma grande família, uma que Daniel não teve o prazer de conhecer antes, e a tribo sempre crescia, se abria aos necessitados de bom coração, que se dispunham a fazer parte da mesma, à medida que se deslocava em busca de terrenos prósperos e de paz. Eram muitos que se abrigavam nos braços da luta pela sobrevivência, e tantos distintos, homens e mulheres refugiados, crianças e velhos abandonados, viajantes, uns perdidos e outros não, contadores de histórias, fazendeiros que tiveram as posses retiradas pela a tirania dos reis ou a vilania dos ladrões, trabalhadores dos mais variados tipos, simpatizantes e pessoas dispostas a ajudar também, guerreiros e batalhadores, alguns impactados por terríveis guerras que nada têm a ver com o seu sofrimento ou conflitos injustos, mas todos encontravam ali um lugar.*

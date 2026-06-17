@@ -13,7 +13,7 @@ image: 9d79116177952b0d8c1e202d690c74b0.jpg
 categoria: Facção
 ---
 
-A [[Cavalaria Negra]] foi uma organização maligna que existiu durante várias décadas e ameaçou fortemente a integridade do [[Reino de Kamorath]] e seus habitantes. Ela foi extinta, entretanto, há cerca de dois séculos.
+A [[Cavalaria Negra]] foi uma organização maligna que existiu durante várias décadas e ameaçou fortemente a integridade do [[Reino de Kamorath]] e seus habitantes.
 
 ## História
 

@@ -41,6 +41,11 @@ Orloff possui pele branca e pálida, olhos castanhos, cabelos longos e pretos e 
 
 *Em Eques de 1048 DR, Pyotr Orloff apareceu às portas do templo da [[Rainha Corvo]], em [[Tempesta]]. De acordo com relatos de sacerdotisas, Orloff informou que havia sido “curado de seu vampirismo” e que havia sido “alvo de uma maracutaia de lacaios desobedientes e nobres bastardos ingratos”. De acordo com Orloff, o mesmo havia recebido uma “missão da Rainha Corvo para exterminar as aberrações que desafiam o ciclo natural da morte como forma de absolvição”. Em Inanis de 1048 DR, Orloff foi oficializado como Clérigo da Rainha Corvo e Investigador Paranormal do Templo da Rainha Corvo de Tempesta."*
 
+### [[Parte 10: Cerco Sob Pedra]]
+Após deixar [[Tempesta]] para exercer seu novo papel em terras distantes, Orloff firmou um acordo com [[Fuhan]] e fez parte de uma longa viagem até [[Dalimar]]. Ele acompanhou os viajantes [[Sindeval]] e [[Gáven]] na jornada, além dos aventureiros [[Alexander d'Morales]], [[Calrus Ventoalto]], [[Celeste Fornocobre]], [[Corinne]] e [[Kacz Virafolha]], que futuramente formariam o grupo [[STF]].
+
+Na cidade eles se depararam com o problema da ponte sobre o [[Rio Pálido]], e foram contratados por [[Tartur]] e a guarda da cidade para investigar e resolver a situação, culminando numa serie de eventos e o intenso confronto com [[Gorkon]] e sua gangue de goblinóides.
+
 ## Informações
 
 ### Habilidades

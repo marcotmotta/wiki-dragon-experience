@@ -5,7 +5,7 @@ tags:
   - NPC
   - Humano
   - Mago
-image: Prisinger.jpg
+image: Prisinger.png
 nome: Prisinger
 criatura: Humanoide
 raça: Humano

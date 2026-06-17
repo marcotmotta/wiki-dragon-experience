@@ -22,7 +22,7 @@ conexões:
 conexões_anotacoes:
   - membro
   - companheira animal
-image: Ielenia1.jpg
+image: Ielenia_new.png
 nascimento: "912 DR, 130 anos"
 ---
 
@@ -46,9 +46,6 @@ Ielenia é dona de uma personalidade forte e autêntica. A elfa sempre trata de 
 Uma das característica mais marcantes de Ielenia é seu temperamento, que varia constantemente entre o de uma pessoa racional e complacente ao de uma pessoa impaciente e indignada.
 
 ## História
-
-> [!figure|left] 
-> ![[Ielenia2.jpg|249]]
 
 ### Passado
 

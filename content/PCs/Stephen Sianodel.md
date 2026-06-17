@@ -7,7 +7,7 @@ tags:
   - PC
   - Meio-Elfo
   - Druida
-image: Stephen2.png
+image: Stephen_new.png
 jogador: André
 nome: Stephen S.
 criatura: Humanoide

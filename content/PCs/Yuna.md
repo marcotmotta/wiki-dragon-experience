@@ -14,7 +14,7 @@ tendência: Neutra
 idiomas: Comum
 visto_pela_primeira_vez: "[[2x1]]"
 nível: 8
-image: yuna.png
+image: Yuna-time-skip.jpg
 conexões:
   - "[[Backstreet Boys]]"
   - "[[Templo da Alma do Sol]]"
@@ -27,6 +27,9 @@ lugares: "[[Reino de Kradon]]"
 [[Yuna]] é uma humana monge. Ela foi criada e é controlada pelo jogador Zille.
 
 ## Descrição
+
+> [!figure|left] Yuna pré timeskip.
+> ![[Yuna.png|231]]
 
 ### Aparência
 Yuna é uma mulher alta, forte e ágil. Seus cabeços são escuros, longos e um pouco desgrenhados e suas roupas são muito comuns e humildes.
@@ -45,3 +48,13 @@ Ela é muito focada em seus objetivos mas dificilmente nega ajuda àqueles neces
 
 ### Pré-jogo
 *"Yuna encontrou algumas pistas de que os antigos bandidos que a sequestraram foram vistos no continente de [[Karamtar]], com navios atracados na costa do [[Mar dos Frutos]], nos últimos anos. Assim, agora mais velha, ela fez mais uma viagem para descobrir quem eram aqueles capazes de tamanha barbaridade e achar uma maneira de combatê-los."*
+
+## Informações
+
+### Itens Notáveis
+
+* Cajado da Luz Cegante - Presente do Templo da Alma Solar após Yuna concluir o Exame Nacional do Ensino Monge.
+
+### Habilidades
+
+* Monge da Alma Solar

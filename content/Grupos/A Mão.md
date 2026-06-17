@@ -11,11 +11,15 @@ nome: A Mão
 atuação: Aventureiros
 visto_pela_primeira_vez: "[[1x13]]"
 situação: Ativo
+image: A-mao.jpg
 ---
 
 [[A Mão]] é o nome de um grupo de aventureiros formado na [[Vila do Dente Quebrado]], em [[Reino de Lorelheim|Lorelheim]].
 
 ## História
+
+> [!figure|left] A Mão, nas florestas do Reino de Lorelheim.
+> ![[A-mao-anim.png|339]]
 
 ### Origem
 Os primeiros integrantes do grupo conhecido como A Mão se encontraram pela primeira vez durante uma viagem da [[Caravana de Edmund]]. [[Daniel]], [[Eryn Montreal]] e [[Sinbad]] foram contratados pelos viajantes como mercenários em troca de 5 moedas de ouro para cada um.
@@ -46,10 +50,10 @@ Após a morte de [[Hakai]] A Mão teve a oportunidade de encontrar [[Stephen Sia
 * [[Gul'Burz]], Meio-orc Bárbaro do Caminho do Guerreiro Totêmico
 * [[Ielenia Liadon]], Elfa Patrulheira do Conclave da Besta
 * [[Roran]], Meio-elfo Bardo do Colégio do Conhecimento
-* [[Sinbad]], Humano Guerreiro do Arquétipo Mestre de Batalha
 * [[Stephen Sianodel]], Meio-elfo Druida do Círculo do Pastor
 
 ### Antigos Membros
 * [[Hakai]], Humano Feiticeiro da Linhagem Dracônica
 * [[Marduk]], Humano Guerreiro
+* [[Sinbad]], Humano Guerreiro do Arquétipo Mestre de Batalha
 * [[Thanas]], Anã Ladina

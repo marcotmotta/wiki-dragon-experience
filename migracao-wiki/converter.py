@@ -64,6 +64,16 @@ def redirect_target(wikitext: str) -> str | None:
     return m.group(1).strip() if m else None
 
 
+def page_ns(page: ET.Element) -> int:
+    """Namespace MediaWiki da página no dump. Só ns=0 (principal) vira
+    conteúdo; os demais (Arquivo=6, Predefinição=10, Categoria=14) existem
+    no dump apenas pra resolver templates/categorias, não pra publicar."""
+    ns_el = page.find(f"{NS}ns")
+    if ns_el is None or not (ns_el.text or "").strip():
+        return 0
+    return int(ns_el.text.strip())
+
+
 def build_redirect_map(root: ET.Element) -> dict[str, list[str]]:
     """Scaneia dump.xml e devolve {alvo: [títulos-fonte-de-redirect, ...]}.
     Usado pra injetar `aliases:` no frontmatter da página alvo, permitindo
@@ -71,6 +81,8 @@ def build_redirect_map(root: ET.Element) -> dict[str, list[str]]:
     tanto no Obsidian quanto no Quartz."""
     targets: dict[str, list[str]] = {}
     for page in root.findall(f"{NS}page"):
+        if page_ns(page) != 0:
+            continue
         title = (page.find(f"{NS}title").text or "").strip()
         rev = page.find(f"{NS}revision")
         if rev is None:
@@ -963,6 +975,9 @@ def main() -> None:
     counts = {"ok": 0, "skip": 0, "error": 0}
     errors: list[str] = []
     for page in root.findall(f"{NS}page"):
+        if page_ns(page) != 0:
+            counts["skip"] += 1
+            continue
         title = (page.find(f"{NS}title").text or "").strip()
         rev = page.find(f"{NS}revision")
         if rev is None:

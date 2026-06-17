@@ -8,7 +8,8 @@ nome: Iggy
 criatura: Besta
 raça: Leopardo das Neves
 conexões: "[[Giovanna Giorel]]"
-visto_pela_primeira_vez: 08/03/2026
+visto_pela_primeira_vez: "[[3x8]]"
+image: giovanna_e_iggy.png
 ---
 
 Iggy é um leopardo das neves, companheiro animal da patrulheira [[Giovanna Giorel]].

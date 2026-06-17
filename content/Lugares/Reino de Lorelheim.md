@@ -36,5 +36,6 @@ A Vila do Dente Quebrado é uma cidade que fica localizada na porção Sudeste d
 
 ## Regiões
 * [[Bosque do Retorno]]
+* [[Melidria]]
 * [[Pântano do Gancho]]
 * [[Vale da Lua]]

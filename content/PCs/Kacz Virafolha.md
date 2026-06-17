@@ -18,7 +18,12 @@ idiomas: Comum
 lugares: "[[Reino de Apéria]]"
 visto_pela_primeira_vez: "[[3x1]]"
 nível: 1
-conexões: "[[STF]]"
+conexões:
+  - "[[Instituto Viritar]]"
+  - "[[STF]]"
+conexões_anotacoes:
+  - ex-membro
+  - membro
 conhecido_como: John Kaczkawniebo
 ---
 
@@ -41,6 +46,15 @@ Pele enrugada, cabelos desgrenhados, olhos intensos, corpo encurvado e desnutrid
 Em ambientes selvagens, Kacz sente-se à vontade para comportar-se rudemente, comunicando-se majoritariamente com grunhidos e urros. Ele aparenta se divertir com o choque que sua imagem causa, e gosta bastante de atividades que envolvam fogo.
 
 Enquanto se encontra em ambientes urbanos, Kacz assume uma postura reservada e calma, evitando situações e espaços sociais. Quando a necessidade surge, no entanto, ele é capaz de apresentar uma postura calma e analítica, além de demonstrar interesse em discussões profundas.
+
+## História
+
+### [[Parte 10: Cerco Sob Pedra]]
+Após abandonar sua cidade e adotar uma nova vida, Kacz firmou um acordo com [[Fuhan]] e fez parte de uma longa viagem até [[Dalimar]]. Ele acompanhou os viajantes [[Sindeval]] e [[Gáven]] na jornada, além dos aventureiros [[Alexander d'Morales]], [[Calrus Ventoalto]], [[Celeste Fornocobre]], [[Corinne]] e [[Pyotr Lvov Orloff]], que futuramente formariam o grupo [[STF]].
+
+Na cidade eles se depararam com o problema da ponte sobre o [[Rio Pálido]], e foram contratados por [[Tartur]] e a guarda da cidade para investigar e resolver a situação, culminando numa serie de eventos e o intenso confronto com [[Gorkon]] e sua gangue de goblinóides.
+
+Kacz se incomodava com frequência nas ruas e tavernas civilizadas de [[Dalimar]], mas se sentiu em casa durante a incursão do grupo ao [[Pântano Pálido]], provendo grande ajuda durante a busca pelo veneno que eles precisavam para lidar com os inimigos da ponte.
 
 ## Informações
 

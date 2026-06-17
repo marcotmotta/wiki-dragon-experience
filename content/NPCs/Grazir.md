@@ -14,6 +14,12 @@ idiomas: Comum
 lugares: "[[Ragnar (Capital)]]"
 profissão: Aventureiro
 visto_pela_primeira_vez: "[[3x7]]"
+conexões:
+  - "[[Fâmar]]"
+  - "[[Okeror]]"
+conexões_anotacoes:
+  - amiga
+  - amigo
 ---
 
 [[Grazir]] é um humano patrulheiro e aventureiro que estava presente na taverna [[Olho de Peixe]] durante o assassinato de [[Fuhan]], lutando ao lado do [[STF]] contra um fogo-fátuo.

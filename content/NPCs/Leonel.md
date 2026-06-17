@@ -5,7 +5,7 @@ tags:
   - NPC
   - Sátiro
   - Patrulheiro
-image: leonel.png
+image: leonel.jpg
 nome: Leonel
 criatura: Humanoide
 raça: Sátiro
@@ -16,4 +16,4 @@ conexões: "[[Mão Amiga]]"
 visto_pela_primeira_vez: "[[2x7]]"
 ---
 
-Leonel é um sátiro patrulheiro que fez parte do grupo [[Mão Amiga]] juntamente com seu grande amigo [[Aurus Zael|Aurus Zael.]]
+[[Leonel]] é um sátiro patrulheiro que fez parte do grupo [[Mão Amiga]] juntamente com seu grande amigo [[Aurus Zael|Aurus Zael.]]

@@ -29,6 +29,10 @@ Tornar-se um aluno da Academia Prisinger só não é uma tarefa mais difícil do
 
 ## Membros Conhecidos
 
+### Membros Atuais
+
+* [[Calrus Ventoalto]]
+
 ### Antigos Membros
 * [[Prisinger]] (fundador; antigo Arquimago Chefe; morto)
 * [[Toisan]] (ex-aluno; morto)

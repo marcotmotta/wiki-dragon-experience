@@ -22,4 +22,4 @@ conexões: "[[Delver]]"
 visto_pela_primeira_vez: "[[2x35]]"
 ---
 
-[[Seirigrand]] é um anão duergar e braço direito de [[Delver]] no governo de [[Ferromir (Capital)|Ferromir]].
+[[Seirigrand]] foi um anão duergar, nascido em [[Kaldrin]], e braço direito de [[Delver]] no governo de [[Ferromir (Capital)|Ferromir]].

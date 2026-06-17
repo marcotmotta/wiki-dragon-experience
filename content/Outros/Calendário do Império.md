@@ -3,6 +3,7 @@ tipo: outro
 title: Calendário do Império
 tags:
   - Calendário
+  - Lore
 ---
 
 O calendário do [[Império de Link]] é adotado na maioria dos reinos de [[Lorelheim]] como calendário oficial. O ano neste calendário é composto por 13 meses e possui um total de 357 dias. Cada semana possui 7 dias e cada dia, por sua vez, possui 24 horas. Um ano possui um total de 4 estações, sendo estas Autumna (Outono), Hiems (Inverno), Fons (Primavera) e Aestas (Verão).
@@ -55,6 +56,7 @@ A nomeclatura utilizada no calendário loreliano é escrita no idioma antigo con
 
 # **Solis** (28 Dias)
 #* 2, Solis - **Colheita Radiante**.
+#* 24, Solis - **Festival dos Inventores de Skystone**.
 
 # **Inanis** (32 Dias)
 #* 1, Inanis - **Dia da Civilização**.

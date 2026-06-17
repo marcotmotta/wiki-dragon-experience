@@ -11,6 +11,7 @@ continente: "[[Altoriel]]"
 também_conhecida_como: A Cidade de Tudo
 image: Mapa Reino Lorelheim.jpg
 image_caption: Mapa do Reino de Lorelheim
+fundação: 18236 AR
 ---
 
 Segundo antigas lendas, a humanidade e muitas outras raças surgiram onde hoje se ergue o [[Reino de Lorelheim]]. Sua capital, homônima, é a cidade mais populosa e importante do mundo, um verdadeiro caldeirão de culturas, ambições e conflitos. A cada rua e praça, histórias se cruzam: aventureiros em busca de glória, nobres em manobras políticas e mercadores disputando riquezas. Quem pisa em **Lorelheim** entra em um mundo que nunca para, onde cada passo pode mudar seu destino para sempre.
@@ -42,13 +43,15 @@ Cada distrito, por sua vez, é dividido em blocos. Os blocos podem variar de tam
 ### Élfico
 
 ### Exterior
-* **Caolho Sortudo:** Uma taverna de baixa reputação que está sempre lotada. É famosa por seu ambiente caótico, cerveja barata e grande clientela goblin. É administrada pelo goblin Zarion.
+* **Caolho Sortudo:** Taverna de baixa reputação que está sempre lotada. É famosa por seu ambiente caótico, cerveja barata e grande clientela goblin. É administrada pelo goblin Zarion.
 * **Olho do Demônio:** Arena de combate onde ocorrem diversos tipos de lutas e eventos.
 
 ### Comercial 1 - Wahid
-* **Lâmina de Ouro**: Uma taverna que funciona como centro de operações e ponto de referência para aventureiros e membros da guilda [[Lâmina de Ouro]].
+* **Lâmina de Ouro**: Taverna que funciona como centro de operações e ponto de referência para aventureiros e membros da guilda [[Lâmina de Ouro]].
 
 ### Comercial 2 - Athnan
+
+* **[[The Greater Goods]]**: Loja de itens refinados, administrada por [[Edmund Rundovar]].
 
 ### Militar
 

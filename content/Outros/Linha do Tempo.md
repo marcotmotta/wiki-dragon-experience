@@ -8,33 +8,49 @@ tags:
 | Data | Evento |
 |---|---|
 | **Era do Domínio** |  |
-| ~50000 | Criação das primeiras raças no mundo de [[Lorelheim]]. |
+| < 50000 AR | Criação das primeiras raças no mundo de [[Lorelheim]]. |
 | **Era do Silêncio** |  |
 | 18202 AR | Os 10 dragões primordiais adormecem. |
 | **Era de Lorel** |  |
-| 18201 AR | [[Lorel]] nasceu. |
-| 18236 AR | [[Lorelheim (Capital)]] foi fundada. |
-| 18336 AR | [[Lorel]] morreu. |
+| 18201 AR | [[Lorel]] nasce. |
+| 18236 AR | [[Lorelheim (Capital)]] é fundada. |
+| 18336 AR | [[Lorel]] morre. |
 | 2 AR | Início da [[Guerra Renascentista]]. |
 | **Era Renascentista** |  |
-| 0 DR | Fim da [[Guerra Renascentista]]. Criação do [[Império de Link]]. |
-| 802 DR | [[Pyotr Lvov Orloff]] nasceu. |
-| 912 DR | [[Ielenia Liadon]] nasceu. |
-| ~1012 DR | [[Daniel]] nasceu. [[Stephen Sianodel]] nasceu. |
-| 1016 DR | [[Roran]] nasceu. [[Hakai]] nasceu. |
-| 1017 DR | [[Aurus Zael]] nasceu. |
-| 1018 DR | [[Gul'Burz]] nasceu. |
-| 1021 DR | [[Alexander d'Morales]] nasceu. |
-| ~1022 DR | [[Eryn Montreal]] nasceu. |
-| 1023 DR | [[Callahad Nataniel]] nasceu. |
-| 1025 DR | [[Sinbad]] nasceu. |
-| 1031 DR | [[Théoden Castamyr]] nasceu. [[Calrus Ventoalto]] nasceu. |
-| 1042 DR | ***Início da Campanha 1.***
-
-O grupo [[A Mão]] foi formado.
-
-[[Hakai]] morreu. |
-| 1047 DR | ***Início da Campanha 2.***
-
-O grupo [[Backstreet Boys]] foi formado. |
+| 0 DR | Fim da [[Guerra Renascentista]]. |
+| Criação do [[Império de Link]]. |  |
+| 727 DR | [[Lady Bruma]] nasce. |
+| 802 DR | [[Pyotr Lvov Orloff]] nasce. |
+| 871 DR | [[Sindeval]] nasce. |
+| 912 DR | [[Ielenia Liadon]] nasce. |
+| 1012 DR | [[Daniel]] nasce. |
+| [[Stephen Sianodel]] nasce. |  |
+| 1016 DR | [[Hakai]] nasce. |
+| [[Roran]] nasce. |  |
+| 1017 DR | [[Aurus Zael]] nasce. |
+| 1018 DR | [[Gul'Burz]] nasce. |
+| 1019 DR | [[Celeste Fornocobre]] nasce. |
+| 1021 DR | [[Alexander d'Morales]] nasce. |
+| ~1022 DR | [[Eryn Montreal]] nasce. |
+| 1023 DR | [[Callahad Nataniel]] nasce. |
+| [[Corinne]] nasce. |  |
+| 1025 DR | [[Sinbad]] nasce. |
+| 1026 DR | [[Giovanna Giorel]] nasce. |
+| 1031 DR | [[Calrus Ventoalto]] nasce. |
+| [[Théoden Castamyr]] nasce. |  |
+| 1042 DR | [[Giovanna Giorel]] encontra [[Iggy]] nas Montanhas Congeladas. |
+| ***Início da Campanha 1.*** |  |
+| O grupo [[A Mão]] é formado. |  |
+| [[Hakai]] morre. |  |
+| [[V'doriak]] é despertado. |  |
+| 1043 DR | [[Torimadril]] desaparece. |
+| 1044 DR | [[Delver]] assume a regência de [[Ferromir (Capital)]]. |
+| 1047 DR | ***Início da Campanha 2.*** |
+| O grupo [[Backstreet Boys]] é formado. |  |
+| [[Lady Bruma]] se torna rainha de [[Reino de Lenoir|Lenoir]]. |  |
+| [[Delver]] morre. Criação do [[Conselho de Ferromir]]. |  |
+| [[Coridravàl]] é despertado. |  |
+| 1048 DR | [[Pyotr Lvov Orloff]] aparece às portas do templo da [[Rainha Corvo]], em [[Tempesta]]. |
 | 1049 DR | ***Início da Campanha 3.*** |
+| O grupo [[Backstreet Boys]] se reencontra após 2 anos separados. |  |
+| O grupo [[STF]] é formado. |  |

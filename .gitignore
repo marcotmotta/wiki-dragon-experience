@@ -17,6 +17,7 @@ content/.obsidian/cache
 # Artefatos locais da migração (reproduzíveis a partir de dump.xml)
 migracao-wiki/demo-raw/
 migracao-wiki/dump.xml.bak-*
+migracao-wiki/migracao.log
 
 # Credenciais — nunca comitar
 .env

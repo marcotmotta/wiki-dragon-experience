@@ -1,16 +1,21 @@
-"""Baixa todas as páginas do namespace principal (ns=0) da Fandom e
-regenera migracao-wiki/dump.xml num formato compatível com converter.py.
+"""Baixa todas as páginas da Fandom (ns 0/10/14/6) e regenera
+migracao-wiki/dump.xml num formato compatível com converter.py. De quebra,
+grava cada Predefinição (ns=10) em templates/*.wiki — é de lá que o
+converter.py lê o Cp e demais templates, então isso os mantém sincronizados
+com a wiki a cada execução (incorpora o pegar_templates.py sem API extra).
 
 Processo:
   1. Lista todas as páginas via action=query&list=allpages
   2. Em lotes de 50 títulos, baixa o wikitext via action=query&prop=revisions
   3. Serializa em XML no mesmo schema que a export oficial do MediaWiki
      usa (export-0.11) — é o que o converter.py parseia.
+  4. Espelha as Predefinições (ns=10) em templates/*.wiki.
 
 Idempotente: salva backup como dump.xml.bak-YYYYMMDD-HHMMSS antes de sobrescrever.
 """
 import datetime as dt
 import json
+import re
 import shutil
 import time
 import urllib.parse
@@ -20,13 +25,14 @@ from xml.sax.saxutils import escape as xml_escape
 
 REPO = Path("/Users/inco/mark/wiki-dragon-experience")
 DUMP = REPO / "migracao-wiki" / "dump.xml"
+TEMPLATES_DIR = REPO / "migracao-wiki" / "templates"
 API = "https://dragonexperience.fandom.com/pt-br/api.php"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
     "Accept": "application/json",
 }
 BATCH_SIZE = 50
-NAMESPACE = 0
+NAMESPACES = [0, 10, 14, 6]  # principal, Predefinição, Categoria, Arquivo
 
 
 def api_get(params: dict) -> dict:
@@ -36,7 +42,7 @@ def api_get(params: dict) -> dict:
         return json.loads(r.read().decode("utf-8"))
 
 
-def list_all_titles() -> list[str]:
+def list_all_titles(namespace: int) -> list[str]:
     titles: list[str] = []
     apcontinue = ""
     while True:
@@ -44,7 +50,7 @@ def list_all_titles() -> list[str]:
             "action": "query",
             "list": "allpages",
             "aplimit": "max",
-            "apnamespace": NAMESPACE,
+            "apnamespace": namespace,
             "format": "json",
             "formatversion": "2",
         }
@@ -89,6 +95,28 @@ def fetch_pages_batch(titles: list[str]) -> list[dict]:
     return out
 
 
+def safe_filename(name: str) -> str:
+    """Mesmo esquema do pegar_templates.py, pra os nomes dos arquivos baterem
+    (ex.: 'Cp' → Cp.wiki, 'Quote box' → Quote box.wiki)."""
+    return re.sub(r"[^\w\-. ]", "_", name).strip()
+
+
+def write_templates(pages: list[dict]) -> int:
+    """Espelha cada página ns=10 (Predefinição:*) em templates/<nome>.wiki.
+    Reaproveita o wikitext já baixado pro dump — nenhuma chamada extra à API."""
+    TEMPLATES_DIR.mkdir(parents=True, exist_ok=True)
+    count = 0
+    for p in pages:
+        if p["ns"] != 10:
+            continue
+        title = p["title"]
+        name = title.split(":", 1)[1] if ":" in title else title
+        path = TEMPLATES_DIR / (safe_filename(name) + ".wiki")
+        path.write_text(p["text"], encoding="utf-8")
+        count += 1
+    return count
+
+
 def build_xml(pages: list[dict]) -> str:
     """Constrói XML mimetizando o formato export-0.11 do MediaWiki."""
     lines = [
@@ -111,11 +139,15 @@ def build_xml(pages: list[dict]) -> str:
 
 
 def main() -> None:
-    print("1/3  Listando todas as páginas em ns=0 …")
-    titles = list_all_titles()
-    print(f"     {len(titles)} títulos encontrados")
+    print("1/4  Listando páginas em todos os namespaces...")
+    titles: list[str] = []
+    for ns in NAMESPACES:
+        ns_titles = list_all_titles(ns)
+        print(f"     ns={ns}: {len(ns_titles)} títulos")
+        titles.extend(ns_titles)
+    print(f"     {len(titles)} títulos no total")
 
-    print("2/3  Baixando wikitext (lotes de 50) …")
+    print("2/4  Baixando wikitext (lotes de 50) …")
     pages: list[dict] = []
     for i in range(0, len(titles), BATCH_SIZE):
         batch = titles[i : i + BATCH_SIZE]
@@ -124,7 +156,7 @@ def main() -> None:
         time.sleep(0.15)  # bom cidadão com a API
     print(f"     {len(pages)} páginas com conteúdo")
 
-    print("3/3  Escrevendo dump.xml …")
+    print("3/4  Escrevendo dump.xml …")
     if DUMP.exists():
         ts = dt.datetime.now().strftime("%Y%m%d-%H%M%S")
         backup = DUMP.with_name(f"dump.xml.bak-{ts}")
@@ -132,6 +164,10 @@ def main() -> None:
         print(f"     backup: {backup.name}")
     DUMP.write_text(build_xml(pages), encoding="utf-8")
     print(f"     {DUMP.name} atualizado ({DUMP.stat().st_size:,} bytes)")
+
+    print("4/4  Espelhando Predefinições (ns=10) em templates/ …")
+    n = write_templates(pages)
+    print(f"     {n} templates atualizados em {TEMPLATES_DIR.name}/")
 
 
 if __name__ == "__main__":

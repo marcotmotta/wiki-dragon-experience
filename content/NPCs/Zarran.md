@@ -4,6 +4,7 @@ title: Zarran
 tags:
   - NPC
   - Tiefling
+  - Ladino
 nome: Zarran
 criatura: Humanoide
 raça: Tiefling
