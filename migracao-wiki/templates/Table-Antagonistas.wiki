@@ -1,6 +1,6 @@
 {| class="article-table" style="width: 100%;"
-! colspan="2" style="text-align: center;" |Antagonistas
-|- style="border-top: 2px #b38600 solid"
+! colspan="2" style="text-align: center;" |[[:Categoria:Antagonistas|Antagonistas]]
+|- style="border-top: 2px #{{Cor|principal}} solid"
 |[[Parte 1]]
 |[[Lyra Rundovar]]
 |-
@@ -20,11 +20,14 @@
 |[[Delver]]
 |-
 |[[Parte 7]]
-|
+|[[Frossfjell]]
 |-
 |[[Parte 8]]
 |
 |-
 |[[Parte 9]]
 |[[Os Fantasmas]]
+|-
+|[[Parte 10]]
+|[[Gorkon]]
 |}

@@ -39,9 +39,6 @@
     <data source="classe">
       <label>Classe</label>
     </data>
-    <data source="classificação">
-      <label>Classificação</label>
-    </data>
     <data source="tendência">
       <label>Tendência</label>
     </data>
@@ -51,14 +48,8 @@
     <data source="idiomas">
       <label>Idiomas</label>
     </data>
-    <data source="plano">
-      <label>Plano</label>
-    </data>
     <data source="lugares">
       <label>Lugares</label>
-    </data>
-    <data source="arma_sagrada">
-      <label>Arma Sagrada</label>
     </data>
     <data source="família">
       <label>Família</label>
@@ -68,9 +59,6 @@
     </data>
     <data source="inimigos">
       <label>Inimigos</label>
-    </data>
-    <data source="antítese">
-      <label>Antítese</label>
     </data>
     <data source="profissão">
       <label>Profissão</label>

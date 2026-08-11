@@ -1,7 +1,8 @@
+<includeonly>
 <infobox>
   <title source="title1"/>
   <image source="image1">
-    <caption source="caption1"/>
+    <caption source="caption-image1"/>
   </image>
   <data source="também_conhecida_como">
     <label>Também Conhecida Como</label>
@@ -21,10 +22,14 @@
   <data source="política">
     <label>Coalizão</label>
   </data>
+  <data source="fundação">
+    <label>Fundação</label>
+  </data>
   <data source="organizações">
     <label>Organizações</label>
   </data>
 </infobox>
+</includeonly>
 <noinclude>
 Exemplo de uso:<pre>
 {{Cidade

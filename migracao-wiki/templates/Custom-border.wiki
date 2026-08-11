@@ -1,0 +1,1 @@
+<noinclude>style="border-top: 2px #b38600 solid"</noinclude>

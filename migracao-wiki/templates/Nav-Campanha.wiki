@@ -1,0 +1,26 @@
+{{Navbox
+|name       = Nav-Campanha
+|state      = autocollapse
+|title      = ''Campanha''
+|image      = 
+|group1 = [[Personagens Principais|Personagens]]
+|list1 = {{Navbox|child
+     |group1 = Vox Machina
+     |list1 = [[Grog]] • [[Keyleth]] • [[Percy]] • [[Pike]] • [[Scanlan]] • [[Taryon]] • [[Tiberius]] • [[Trinket]] • [[Vax'ildan]] • [[Vex'ahlia]]
+     |group2 = The Mighty Nein
+     |list2 = [[Beauregard]] • [[Caduceus Clay]] • [[Caleb]] • [[Fjord]] • [[Frumpkin]] • [[Jester Lavorre|Jester]] • [[Mollymauk Tealeaf|Mollymauk]] • [[Nott]] • [[Yasha Nydoorin|Yasha]]
+  }}
+|group2 = <span style="white-space: nowrap;">[[Guest Characters]]</span>
+|list2 = {{Navbox|child
+     |group1 = Campaign 1
+     |list1 =  [[Arkhan]] • [[Garthok]] • [[Gern Blanston|Gern]] • [[Kashaw]] • [[Kerrek]] • [[Lillith Daturai|Lillith]] • [[Lionel Gayheart|Lionel]] • [[Lyra]] • [[Shale]] • [[Sprigg]] • [[Thorbir]] • [[Tova]] • [[Zahra Hydris|Zahra]]
+     |group2 = Campaign 2
+     |list2 =  [[Calianna]] • [[Keg]] • [[Nila]] • [[Reani]] • [[Shakäste]] • [[Spurt]] • [[Twiggy]]
+  }}
+|group3 = <span style="white-space: nowrap;">[[:Category:Non-player characters | Non-Player Characters]]</span>
+|list3 = [[Lady Allura]] • [[Lord Briarwood|Lord]] & [[Lady Briarwood]] • [[Cassandra]] • [[Clarota]] • [[The Gentleman]] • [[Gilmore]] • [[Jarett]] • [[Kaylie]] • [[Lady Kima]] • [[Kiri]] • [[K'Varn]] • [[Pumat Sol]] • [[Sovereign Uriel Tal'Dorei III]]
+|group4 = <span style="white-space: nowrap;">[[:Category:Factions | Factions]]</span>
+|list4 = [[Arcana Pansophical]] • [[Ashari]] • [[Cerberus Assembly]] • [[Chroma Conclave]] • [[The Clasp]] • [[Council of Tal'Dorei]] • [[Crownsguard]] • [[Dr. Dranzel's Spectacular Traveling Troupe]] • [[The Gentleman's Troupe]] • [[Iron Shepherds]] • [[Kryn Dynasty]] • [[The Myriad]] • [[The Revelry]] • [[Slayer's Take]] • [[Vox Machina]]
+|group5 = <span style="white-space: nowrap;">[[:Category:Places | Places]]</span>
+|list5 = [[Alfield]] • [[Emon]] • [[Felderwin]] • [[Greyskull Keep]] • [[Hupperdook]] • [[Kymal]] • [[Marquet]] • [[Nicodranas]] • [[Rosohna]] • [[Stilben]] • [[Underdark]] • [[Vasselheim]] • [[Westruun]] • [[Whitestone]] • [[Wildemount]] • [[Zadash]] 
+}}

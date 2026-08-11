@@ -1,0 +1,22 @@
+<onlyinclude><infobox>
+	<title source="title"><default>''Unknown''</default></title>
+	<image source="image"><caption source="imagecaption"/></image>
+	<group>
+		<header>Information group</header>
+		<data source="first"><label>First</label><default>''Unknown''</default></data>
+		<data source="second"><label>Second</label><default>''Unknown''</default></data>
+		<data source="third"><label>Third</label><default>''Unknown''</default></data>
+	</group>
+	<group>
+		<header>Other attributes</header>
+		<data source="fourth"><label>Fourth</label></data>
+		<data source="fifth"><label>Fifth</label></data>
+		<data source="sixth"><label>Sixth</label></data>
+	</group>
+	<group layout="horizontal">
+		<header>Order</header>
+		<data source="previous"><label>Previous</label></data>
+		<data source="next"><label>Next</label></data>
+	</group>
+</infobox></onlyinclude>
+[[Category:Predefinições]]
