@@ -1,0 +1,8 @@
+{| align="center" border="0" cellpadding="3" cellspacing="3" style="border:1px solid #E0E0E0; background-color:#F8F8F8; color:#000; margin:0.5em auto;"
+|- 
+| style="font-size:90%;" | Includes CC-BY-SA content from Wikipedia's [[Wikipedia:{{{1|{{FULLPAGENAME}}}}}|{{{1|{{FULLPAGENAME}}}}}]] article ([http://en.wikipedia.org/w/index.php?title={{urlencode:{{{1|{{FULLPAGENAMEE}}}}}}}&action=history authors])
+|}<noinclude>
+
+
+Customize this to link to Wikipedia in your language.
+[[Category:Predefinições]]</noinclude>

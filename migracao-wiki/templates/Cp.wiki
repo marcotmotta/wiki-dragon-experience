@@ -633,7 +633,7 @@
 <!-- Frossfjell (novo, inserido como 2x42) -->
 |2x42=[["Frossfjell" (2x42)]]
 |2d42=14/01/2024
-|2r42=
+|2r42=Os backstreet Boys alcançam o topo da montanha, mas se deparam com a poderosa tribo de gigantes que guarda o covil do lendário dragão.
 |2n42=75
 |2c42=42
 |2p42=7
@@ -641,7 +641,7 @@
 
 |2x43=[["Coridravàl, o Magnífico" (2x43)]]
 |2d43=09/03/2024
-|2r43=Atravessando o acampamento dos gigantes da tribo de Frossfjell os aventureiros alcançam a câmara escondida que guarda o tão acalamdo mestre de Korimarek.
+|2r43=Atravessando o acampamento dos gigantes da tribo de Frossfjell os aventureiros alcançam a câmara escondida onde dorme o tão aclamado mestre de Korimarek.
 |2n43=76
 |2c43=43
 |2p43=7
@@ -718,6 +718,26 @@
 |2c52=52
 |2p52=9
 |2k52=4
+
+<!-- esse cap veio durante a campanha 3 -->
+
+|2x53=[["Destino: Scieria" (2x53)]]
+|2d53=01/05/2026
+|2r53=As águas do continente de Skystone se agitam, e os Backstreet Boys preciam lutar para chegar em segurança à cidade de Scieria.
+|2n53=96
+|2c53=53
+|2p53=9
+|2k53=5
+
+<!-- esse cap veio durante a campanha 3 -->
+
+|2x54=[["Plano de Sacrifício" (2x54)]]
+|2d54=09/05/2026
+|2r54=Os aventureiros exploram a cidade baixa e se deparam com um ambiente tenso e sombrio, enquanto tentam encontrar alguém capaz de ajudá-los a alcançar os Fantasmas.
+|2n54=98
+|2c54=54
+|2p54=9
+|2k54=6
 
 <!-- ===== CAMPANHA 3 ===== -->
 |3x1=[["Noite de Sorte" (3x1)]]
@@ -800,8 +820,27 @@
 |3p10=11
 |3k10=4
 
+<!-- cap da campanha 2 veio aqui -->
+
+|3x11=[["A Cidade do Ouro" (3x11)]]
+|3d11=03/05/2026
+|3r11=O período raveniano se inicia e os aventureiros chegam à Fontenova, reencontrando velhos companheiros e explorando terras desconhecidas.
+|3n11=97
+|3c11=11
+|3p11=11
+|3k11=5
+
+<!-- cap da campanha 2 veio aqui -->
+
+|3x12=[["Comunhão nas Sombras" (3x12)]]
+|3d12=24/05/2026
+|3r12=O STF visita a Catedral das Memórias e se comunica com a Rainha Corvo, adquirindo pistas sobre mistérios recorrentes e juntando as peças que conectam seu passado com seus aliados e seus inimigos.
+|3n12=99
+|3c12=12
+|3p12=11
+|3k12=6
 
 <!-- ===== METADADOS ===== -->
-|last=3x10
+|last=3x12
 
 }}</includeonly>

@@ -1,0 +1,24 @@
+<includeonly>{{#switch:{{{1}}}
+|principal=8da683
+|fundo-medio=8da683
+|fundo-claro=FFFFFF00
+|texto=161616
+}}</includeonly><noinclude>
+Paleta central da wiki. Edite aqui pra trocar o tema visual.
+
+Uso: <code>style="color:#{{Cor|principal}}"</code>
+
+Referência das cores originais:
+
+{| class="wikitable"
+! Chave !! Hex !! Papel
+|-
+| principal || b38600 || bordas e títulos (dourado)
+|-
+| fundo-medio || ffecb3 || fundo bege médio
+|-
+| fundo-claro || fff9e6 || fundo bege claro
+|-
+| texto || 161616 || texto cinza-escuro
+|}
+</noinclude>

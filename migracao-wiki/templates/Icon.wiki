@@ -1,0 +1,5 @@
+<onlyinclude>[[File:{{#switch: {{{1|}}}
+|bahamut_symbol = Symbol of Bahamut.png
+|tiamat_symbol = Tiamat_Symbol.png
+default_icon.jpg
+}}|24px]]</onlyinclude>

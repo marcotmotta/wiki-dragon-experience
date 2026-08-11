@@ -1,0 +1,76 @@
+<blockquote class="pull-quote">
+	<div class="pull-quote__text">{{{text|Texto...}}}</div>
+	<p style="text-align: right"><cite>—{{{speaker|locutor}}}{{#if:{{{receiver|}}}|, para {{{receiver|}}}}}{{#if:{{{attribution|}}}|, {{{attribution|}}}}}{{#if:{{{source|}}}|, {{{source|}}}}}</cite></p>
+</blockquote>
+<noinclude>
+==Descrição==
+Um modelo usado para visualizar Citações Estruturadas ( ''<nowiki>{{#SQuote:}}</nowiki>'' ). Se você quiser desbloquear todo o potencial das Citações Estruturadas, evite usar esse modelo diretamente e, em vez disso, considere a marcação ''<nowiki>{{#SQuote:}}</nowiki>'' .
+Veja https://community.fandom.com/wiki/Help:Structured_Quotes para mais informações sobre Citação estruturada.
+
+==Sintaxe==
+<pre>
+{{StructuredQuote
+| text   =
+| speaker =
+| receiver =
+| attribution =
+| source  =
+}}
+</pre>
+
+==Exemplos==
+{{StructuredQuote
+|text=O tamanho não importa. Olhe para mim. Você me julga pelo meu tamanho, não é? Hum? Hmm. E bem, você não deveria. (...)
+|speaker=[[w:c:pt.starwars:Yoda|Yoda]]
+|receiver=[[w:c:pt.starwars:Luke_Skywalker|Luke Skywalker]]
+|source=[[w:c:pt.starwars:Star Wars Episódio V: O Império Contra-Ataca|Guerra nas Estrelas: Episódio V - O Império Contra-Ataca]]
+}}
+<pre>
+{{StructuredQuote
+|text=O tamanho não importa. Olhe para mim. Você me julga pelo meu tamanho, não é? Hum? Hmm. E bem, você não deveria. (...)
+|speaker=[[Yoda]]
+|receiver=[[Luke Skywalker]]
+|source=[[Guerra nas Estrelas: Episódio V - O Império Contra-Ataca]]
+}}
+</pre>
+
+== TemplateData ==
+
+<templatedata>
+	{
+		"params": {
+			"text": {
+				"label": "Texto da citação",
+				"description": "texto da citação",
+				"type": "content",
+				"required": true
+			},
+			"speaker": {
+				"label": "Pessoa(s) citada(s)",
+				"description": "indivíduo(s) que proferiu(aram) ou escreveu(aram) as palavras citadas (links de wikitexto, separados por vírgula)",
+				"type": "content",
+				"required": true
+			},
+			"receiver": {
+				"label": "Pessoa(s) a quem a citação foi dita/dirigida",
+				"description": "pessoa a quem a citação foi dita/dirigida (links de wikitexto, separados por vírgulas)",
+				"type": "content",
+				"suggested": true
+			},
+			"attribution": {
+				"label": "Atribuição(ões)",
+				"description": "atribuição (links de wikitexto, separados por vírgulas)",
+				"type": "content",
+				"suggested": true
+			},
+			"source": {
+				"label": "Fonte da citação",
+				"description": "local onde foi falado (link do wikitexto)",
+				"type": "content",
+				"suggested": true
+			}
+		},
+		"format": "block"
+	}
+</templatedata>
+</noinclude>

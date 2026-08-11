@@ -1,4 +1,4 @@
-<includeonly>{{!}}- style="border-top: 2px #b38600 solid"
+<includeonly>{{!}}- style="border-top: 2px #{{Cor|principal}} solid"
 {{!}} {{Cp|{{#sub:{{{1}}}|0|1}}n{{#sub:{{{1}}}|2}}}}
 {{!}} {{Cp|{{#sub:{{{1}}}|0|1}}c{{#sub:{{{1}}}|2}}}}
 {{!}} {{Cp|{{#sub:{{{1}}}|0|1}}k{{#sub:{{{1}}}|2}}}}
