@@ -69,6 +69,8 @@ Distrito de alto padrão, bloqueado para aqueles que não possuem passe Elite ou
 ## Habitantes Conhecidos
 
 * [[Árion]]
+* [[Celeste Fornocobre]]
 * [[Évion]]
 * [[Fâmar]]
 * [[Silmora]]
+* [[Yor-hir]]

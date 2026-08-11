@@ -4,7 +4,7 @@ title: Vanth Rorrdanor
 tags:
   - NPC
   - Draconato
-image: Screenshot 8.png
+image: Vanth.png
 nome: Vanth Rorrdanor
 título: Rei de Lorelheim
 raça: Draconato (Bronze)
@@ -21,8 +21,11 @@ condição: Morto
 criatura: Humanoide
 ---
 
-**Vanth Rorrdanor** foi um draconato de bronze que atuou como regente de [[Lorelheim (Capital)]] e Rei do [[Reino de Lorelheim]] durante os eventos que marcaram a [[Guerra Renascentista]], em 2 AR.
+**Vanth Rorrdanor** foi um draconato de bronze e Rei de [[Lorelheim (Capital)]] durante os eventos que marcaram a [[Guerra Renascentista]], em 2 AR.
 
 ## Características
 
 ### Aparência
+Vanth é uma figura imponente e nobre: um draconato de escamas bronzeadas, com traços fortes e firmes. Veste uma armadura pesada em tons de cinza escuro, detalhada com adornos em bronze que acompanham o desenho das placas. Sobre a cabeça, repousa uma coroa dourada e elegante.
+
+Em uma das mãos, ele empunha uma espada longa de lâmina em tom bronzeado, e na outra, carrega um escudo de formato alongado com o símbolo clássico de [[Lorelheim (Capital)|Lorelheim]]: um círculo central composto por semicírculos internos.

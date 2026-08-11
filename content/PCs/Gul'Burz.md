@@ -2,8 +2,8 @@
 tipo: PC
 title: "Gul'Burz"
 aliases:
-  - Gul
   - "Gûl'Burz"
+  - Gul
   - Gûl
 tags:
   - Meio-Orc

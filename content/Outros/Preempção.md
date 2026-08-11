@@ -7,8 +7,6 @@ tags:
 
 [[Preempção]] é o nome de uma nova escola de magia. A Escola de Preempção explora as brechas espaciais e temporais deixadas pelos diversos traços e vestígios mágicos do mundo.
 
-## História
-
 ## Características
 
 ### Magias

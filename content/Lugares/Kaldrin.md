@@ -24,4 +24,5 @@ regente_anotacoes:
 * [[Delver]]
 * [[Fridrick]]
 * [[Seirigrand]]
+* [[Tarinvork]]
 * [[Tezzeroth]]

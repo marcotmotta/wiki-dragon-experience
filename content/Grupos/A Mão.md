@@ -11,7 +11,7 @@ nome: A Mão
 atuação: Aventureiros
 visto_pela_primeira_vez: "[[1x13]]"
 situação: Ativo
-image: A-mao.jpg
+image: A-mao-anim.png
 ---
 
 [[A Mão]] é o nome de um grupo de aventureiros formado na [[Vila do Dente Quebrado]], em [[Reino de Lorelheim|Lorelheim]].
@@ -19,7 +19,7 @@ image: A-mao.jpg
 ## História
 
 > [!figure|left] A Mão, nas florestas do Reino de Lorelheim.
-> ![[A-mao-anim.png|339]]
+> ![[A-mao.jpg|339]]
 
 ### Origem
 Os primeiros integrantes do grupo conhecido como A Mão se encontraram pela primeira vez durante uma viagem da [[Caravana de Edmund]]. [[Daniel]], [[Eryn Montreal]] e [[Sinbad]] foram contratados pelos viajantes como mercenários em troca de 5 moedas de ouro para cada um.

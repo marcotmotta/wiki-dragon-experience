@@ -739,6 +739,16 @@
 |2p54=9
 |2k54=6
 
+<!-- esse cap veio durante a campanha 3 -->
+
+|2x55=[["Passagem Demoníaca" (2x55)]]
+|2d55=11/06/2026
+|2r55=Ao lado de Yor-hir os Backstreet Boys fazem uso de Scar, a pedra escarlate abissal, e abrem um portal instável rumo à cidade suspensa de Scieria.
+|2n55=100
+|2c55=55
+|2p55=9
+|2k55=7
+
 <!-- ===== CAMPANHA 3 ===== -->
 |3x1=[["Noite de Sorte" (3x1)]]
 |3d1=24/08/2025
@@ -841,6 +851,6 @@
 |3k12=6
 
 <!-- ===== METADADOS ===== -->
-|last=3x12
+|last=2x55
 
 }}</includeonly>

@@ -45,7 +45,7 @@ Giovanna é uma drow de pele escura e longos cabelos brancos, trançados na late
 *Hoje, Giovanna percorre terras distantes. Clovis retornou à mata, agora sem dono, mas Iggy permanece ao seu lado. Ela não carrega apenas um arco, mas a memória de um sacrifício e o desenho daquele símbolo gravado em sua mente, esperando o dia em que o caçador, finalmente, se tornará a presa."*
 
 ### Pré-jogo
-Giovanna deixou para trás o [[Reino de Leafheart]], e com a ajuda de [[Gáven]], um pequeno e astuto halfling, viajou para as terras distantes de [[Vaxianthor]], onde viria a descobrir pistas sobre seu passado, e conhecer os aventureiros [[Alexander d'Morales]], [[Calrus Ventoalto]], [[Celeste Fornocobre]], [[Corinne]], [[Kacz Virafolha]] e [[Pyotr Lvov Orloff]], tornando-se assim a mais nova membro do grupo [[STF]].
+Giovanna deixou para trás o [[Reino de Leafheart]], e com a ajuda de [[Gáven]], um pequeno e astuto halfling, viajou para as terras distantes de [[Vaxianthor]], onde viria a descobrir pistas sobre seu passado, e conhecer os aventureiros [[Alexander d'Morales]], [[Calrus Ventoalto]], [[Celeste Fornocobre]], [[Corinne]], [[Kacz Virafolha]] e [[Pyotr Lvov Orloff]], tornando-se assim a mais nova integrante do grupo [[STF]].
 
 ## Características
 

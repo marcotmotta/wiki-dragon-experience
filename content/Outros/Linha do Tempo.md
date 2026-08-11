@@ -15,7 +15,10 @@ tags:
 | 18201 AR | [[Lorel]] nasce. |
 | 18236 AR | [[Lorelheim (Capital)]] é fundada. |
 | 18336 AR | [[Lorel]] morre. |
+| 1240 AR | Início das [[Guerras Místicas]]. |
+| 240 AR | [[Ragnar (Capital)]] é fundada. |
 | 2 AR | Início da [[Guerra Renascentista]]. |
+| 1 AR | Fim das [[Guerras Místicas]]. |
 | **Era Renascentista** |  |
 | 0 DR | Fim da [[Guerra Renascentista]]. |
 | Criação do [[Império de Link]]. |  |
@@ -36,6 +39,7 @@ tags:
 | [[Corinne]] nasce. |  |
 | 1025 DR | [[Sinbad]] nasce. |
 | 1026 DR | [[Giovanna Giorel]] nasce. |
+| 1029 DR | Início da [[Guerra da Pedra]]. |
 | 1031 DR | [[Calrus Ventoalto]] nasce. |
 | [[Théoden Castamyr]] nasce. |  |
 | 1042 DR | [[Giovanna Giorel]] encontra [[Iggy]] nas Montanhas Congeladas. |

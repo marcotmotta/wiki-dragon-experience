@@ -14,15 +14,22 @@ criatura: Humanoide
 raça: Elfa (Floresta)
 idiomas: "Comum, Élfico"
 lugares: "[[Eluin]]"
-família: "[[Lord Fafnir]]"
+família:
+  - "[[Lord Fafnir]]"
+  - "[[Reluvia Eluin]]"
+família_anotacoes:
+  - marido
+  - antepassada
 profissão: Regente
 visto_pela_primeira_vez: "[[2x6]]"
 nascimento: "727 DR, 322 anos"
-conhecido_como: Rainha Bruma
-inimigos: "[[Lord Syleth]]"
+conhecido_como:
+  - Lady Bruma
+  - Rainha Bruma
+inimigos: "[[Syleth]]"
 ---
 
-[[Lady Bruma]] é uma elfa da floresta, descendente da família real de [[Eluin]], e atual rainha do [[Reino de Lenoir]]. Por 200 anos ela foi regente da cidade de [[Eluin]], ao lado de seu marido [[Lord Fafnir]], mas após a morte de companheiro assumiu o reinado de [[Lenoir (Capital)]], por decisão dos anciões de [[Ashenvar]] no ano de 1047 DR.
+**Bruma Eluin**, também conhecida como [[Lady Bruma]], ou **Rainha Bruma**, é uma elfa da floresta, descendente da família real de [[Eluin]], e atual rainha do [[Reino de Lenoir]]. Por 200 anos ela foi regente da cidade de [[Eluin]], ao lado de seu marido [[Lord Fafnir]], mas após a morte de companheiro assumiu o reinado de [[Lenoir (Capital)]], por decisão dos anciões de [[Ashenvar]] no ano de 1047 DR.
 
 ## Descrição
 

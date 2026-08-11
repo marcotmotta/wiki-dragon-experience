@@ -9,8 +9,9 @@ reino: "[[Reino de Lorelheim]]"
 política: "[[Império de Link]]"
 continente: "[[Altoriel]]"
 também_conhecida_como: A Cidade de Tudo
-image: Mapa Reino Lorelheim.jpg
-image_caption: Mapa do Reino de Lorelheim
+regente: "[[Vanth Rorrdanor]]"
+image: Simbolo-lorelheim.png
+image_caption: Símbolo de Lorelheim
 fundação: 18236 AR
 ---
 
@@ -31,6 +32,9 @@ Cada distrito recebe um nome que o rotula de acordo com suas principais caracter
 Cada distrito, por sua vez, é dividido em blocos. Os blocos podem variar de tamanho e servem majoritariamente para facilitar a orientação dos cidadãos que caminham por entre as inúmeras ruas da cidade.
 
 ## Distritos
+
+> [!figure|right] História do símbolo de Lorelheim.
+> ![[Simbolo-lorelheim-2.png|328]]
 
 ### Apotecário
 * **Abelha Rainha: **Taverna pouco movimentada administrada por [[Kristina Melion]].
@@ -70,10 +74,14 @@ Cada distrito, por sua vez, é dividido em blocos. Os blocos podem variar de tam
 ## Habitantes Conhecidos
 * Adell
 * [[Caledonensis Clas]]
+* [[Edmund Rundovar]]
 * [[Jeremy]]
 * [[Kristina Melion]]
 * [[Liandara]]
+* [[Lyra Rundovar]]
 * [[Maness]]
 * [[Nero Vend'ruckhem]]
+* [[Nissandra Rundovar]]
 * [[Valina Lettsa]]
+* [[Vanth Rorrdanor]]
 * Zarion

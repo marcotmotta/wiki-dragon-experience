@@ -11,10 +11,9 @@ criatura: Humanoide
 raça: Elfo (alto elfo)
 idiomas: "Comum, Élfico"
 lugares: "[[Valindor]]"
-conexões: "[[Rei Syleth]]"
 inimigos: "[[Eluin]]"
 profissão: General
 visto_pela_primeira_vez: "[[2x13]]"
 ---
 
-[[Caraman]] é um elfo que ocupa um dos cargos de General do Exército de Valindor, servindo diretamente a [[Rei Syleth]], atual regente de [[Valindor]] e antigo Rei de [[Reino de Lenoir|Lenoir]]. Ele foi um dos responsáveis por liderar o ataque à [[Eluin]] que culminou na morte de [[Lord Fafnir]].
+[[Caraman]] é um elfo que ocupa um dos cargos de General do Exército de Valindor, servindo diretamente a [[Syleth|Rei Syleth]], atual regente de [[Valindor]] e antigo Rei de [[Reino de Lenoir|Lenoir]]. Ele foi um dos responsáveis por liderar o ataque à [[Eluin]] que culminou na morte de [[Lord Fafnir]].

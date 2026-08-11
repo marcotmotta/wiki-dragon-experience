@@ -30,6 +30,12 @@ morte:
 * Se matou (tornando-se um morto-vivo)"
   - "1042 DR, em [[1x12]]
 * Flechada na cabeça por [[Ielenia Liadon]]"
+lugares:
+  - "[[Caverna do Clérigo]]"
+  - "[[Lorelheim (Capital)]]"
+lugares_anotacoes:
+  - ""
+  - antigo lar
 ---
 
 [[Lyra Rundovar]] foi uma humana, esposa de [[Edmund Rundovar]], que desapareceu após uma das viagens do mercador. Foi descoberto depois que ela havia se matado e se transformado em um morto-vivo.

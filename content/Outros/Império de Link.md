@@ -3,6 +3,7 @@ tipo: outro
 title: Império de Link
 tags:
   - Alianças-Políticas
+  - Lore
 ---
 
 O [[Império de Link]] denota primariamente uma grande área territorial de [[Lorelheim]] não contígua governada pela oligarquia de [[Link (Capital)]]. Vários reinos fazem parte ativamente do império respeitando e seguindo suas leis. Outros reinos, por sua vez, mantém uma relação de aliança, neutralidade ou inimizade às políticas de Link.

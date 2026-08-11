@@ -54,9 +54,13 @@ tags:
 * [[Arcanis]]
 * [[Calendário do Império]]
 * [[Divindades]]
+* [[:Categoria:Guerras|Guerras]]
+* [[Império de Link]]
 * [[Linha do Tempo]]
 * [[Livros de Lorelheim]]
 * [[Scratch]]
+
+<p style="text-align:center;">[[Notas do DM]]</p>
 </div>
 </div>
 
